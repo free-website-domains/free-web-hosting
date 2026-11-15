@@ -27,17 +27,17 @@ If you need dynamic **free website hosting** with PHP 8+, MySQL databases, FTP a
 
 ## 2. Best 100% Free PHP, MySQL & WordPress Hosts (No Ads)
 
-| Provider | Disk Space | Monthly Bandwidth | PHP & Database Stack | Control Panel | Custom Domain & SSL | Best For |
-| :--- | :---: | :---: | :--- | :--- | :---: | :--- |
-| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** | **Unlimited** (50k daily hits) | PHP 8.2, 400 MySQL DBs, Softaculous | VistaPanel | ✅ Yes + Free SSL tool | Best free WordPress & PHP starter host |
-| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** | **25,000 visits / mo** | PHP 8.x, 1 GB MySQL, Global CDN | My20i Panel | ✅ Yes + Auto SSL | WordPress demos with built-in CDN |
-| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** | **5 GB / month** | PHP 8.x, 1 MySQL DB, Zacky Installer | Custom Panel + FTP | ✅ 1 Domain + 3 Subdomains | Simple PHP/HTML school & test sites |
-| [**HelioHost**](https://heliohost.org/) | **1,000 MB** | **Unlimited** | PHP, **Python, Node.js, Java**, MySQL & PostgreSQL | **Plesk** | ✅ Yes + Auto Let's Encrypt | Multi-language nonprofit hosting |
-| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** | **Unlimited** | PHP, Python, Node.js, Go, Rust, MySQL, PostgreSQL | DevilWEB + **Full SSH** | ✅ Yes + Free SSL | Developers wanting FreeBSD SSH + cron |
-| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** | **Unlimited** | PHP, Python, Node.js, Ruby, MySQL, Postgres | Custom + **SSH/WebDAV** | ✅ Yes + 100 MB Email | Lightweight APIs & database testing |
-| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** | **100 GB / month** | PHP 8, 2 MySQL DBs, LiteSpeed | DirectAdmin | ✅ Yes + Cloudflare SSL | WordPress testing on LiteSpeed |
-| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** | **50 GB / month** | PHP 8, 5 MySQL DBs, Softaculous | VistaPanel | ✅ 5 Addon Domains | Classic multi-domain PHP testing |
-| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** | **Unlimited** | PHP 8, MySQL, 1-Click WordPress | DirectAdmin | ✅ Yes + Free SSL | Fast DirectAdmin WordPress sandbox |
+| Provider | Disk & Bandwidth | PHP & Database Stack | Control Panel | Custom Domain & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** • Unlimited (50k hits/day) | PHP 8.2, 400 MySQL DBs, Softaculous | VistaPanel | ✅ Free SSL • Best free WP/PHP starter |
+| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** • 25,000 visits/mo | PHP 8.x, 1 GB MySQL, Global CDN | My20i Panel | ✅ Auto SSL • WordPress + built-in CDN |
+| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** • 5 GB/mo | PHP 8.x, 1 MySQL DB, Zacky Installer | Custom + FTP | ✅ 1 Domain + 3 Subdomains • School/test |
+| [**HelioHost**](https://heliohost.org/) | **1,000 MB** • Unlimited | PHP, Python, Node, Java, MySQL & Postgres | **Plesk** | ✅ Auto SSL • Multi-language nonprofit |
+| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** • Unlimited | PHP, Python, Node, Go, Rust, MySQL/PG | DevilWEB + **SSH** | ✅ Free SSL • FreeBSD SSH + cron jobs |
+| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** • Unlimited | PHP, Python, Node, Ruby, MySQL, Postgres | Custom + **SSH** | ✅ 100 MB Email • Lightweight APIs |
+| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** • 100 GB/mo | PHP 8, 2 MySQL DBs, LiteSpeed | DirectAdmin | ✅ Cloudflare SSL • LiteSpeed WP test |
+| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** • 50 GB/mo | PHP 8, 5 MySQL DBs, Softaculous | VistaPanel | ✅ 5 Addon Domains • Multi-site PHP |
+| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** • Unlimited | PHP 8, MySQL, 1-Click WordPress | DirectAdmin | ✅ Free SSL • Fast WP sandbox |
 
 ---
 

@@ -75,25 +75,25 @@ Explore our dedicated internal guides and interactive web pages for step-by-step
 
 If you want to **host free sites** built with HTML, CSS, JavaScript, React, Vue, Next.js, Astro, Hugo, or Jekyll, static edge platforms are the gold standard. They offer **free homepage hosting** with global CDN caching, automatic Git deployments, custom domain support, and **zero forced ads**.
 
-| Platform | Storage Limit | Monthly Bandwidth | Build Minutes / Limits | Free Subdomain | Custom Domain + Free SSL | Commercial Use |
-| :--- | :---: | :---: | :--- | :--- | :---: | :---: |
-| [**Cloudflare Pages**](https://pages.cloudflare.com/) | 25 MB per file (20,000 files/site) | **Unlimited** | 500 builds/mo • Unlimited sites | `*.pages.dev` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**GitHub Pages**](https://pages.github.com/) | 1 GB per repo | 100 GB / month | 10 builds/hour via GitHub Actions | `*.github.io` | ✅ Yes (Let's Encrypt) | ⚠️ Non-commercial / Docs |
-| [**Vercel**](https://vercel.com/) | 100 MB serverless bundle | 100 GB / month | 6,000 build mins/mo • 100 deploys/day | `*.vercel.app` | ✅ Yes (Automatic SSL) | ❌ Hobby / Non-commercial |
-| [**Netlify**](https://www.netlify.com/) | 100 GB asset storage | 100 GB / month | 300 build mins/mo • Forms & Functions | `*.netlify.app` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**Render Static Sites**](https://render.com/) | Unlimited static files | 100 GB / month | Unlimited team members • Auto Git deploy | `*.onrender.com` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**DigitalOcean App Platform**](https://www.digitalocean.com/products/app-platform) | **3 Static Sites Free** | 1 GiB / site (starter) | Auto-deploy from GitHub/GitLab + Global CDN | `*.ondigitalocean.app` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**GitLab Pages**](https://docs.gitlab.com/ee/user/project/pages/) | 10 GB repo limit | Unlimited (Fair use) | 400 CI/CD runner minutes/mo | `*.gitlab.io` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**Surge.sh**](https://surge.sh/) | Unlimited static projects | Fair use CDN | Instant CLI deploy (`npx surge`) | `*.surge.sh` | ✅ Yes (CNAME support) | ✅ Yes |
-| [**Neocities**](https://neocities.org/) | **1 GB Storage** | **200 GB / month** | Built-in browser code editor • Webring community | `*.neocities.org` | ✅ Yes | ✅ Yes |
-| [**Firebase Hosting**](https://firebase.google.com/docs/hosting) | 10 GB SSD | 10 GB / month (360 MB/day) | Backed by Google Cloud CDN • CLI deploy | `*.web.app` / `*.firebaseapp.com` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**Kinsta Static Hosting**](https://kinsta.com/static-site-hosting/) | Up to 100 static sites | 100 GB / month | 600 build mins/mo • 260+ Cloudflare Edge PoPs | `*.kinsta.page` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**Deno Deploy**](https://deno.com/deploy) | Edge JS/TS & Static | 100 GiB / month | 1,000,000 requests/mo at the edge | `*.deno.dev` | ✅ Yes (Automatic SSL) | ✅ Yes |
-| [**Codeberg Pages**](https://codeberg.page/) | FOSS Git repo limit | Fair use | Open-source projects only (Gitea-based) | `*.codeberg.page` | ✅ Yes (Automatic SSL) | ⚠️ FOSS Only |
-| [**SourceForge**](https://sourceforge.net/) | Open-source project web | Unlimited FOSS bandwidth | SFTP/SCP upload • PHP & static project web | `*.sourceforge.io` | ✅ Yes | ⚠️ FOSS Only |
-| [**Read the Docs**](https://readthedocs.org/) | Documentation hosting | Unlimited for public docs | Sphinx / MkDocs auto-build + PDF generation | `*.readthedocs.io` | ✅ Yes | ⚠️ Docs Only |
-| [**Tilda Free**](https://tilda.cc/) | 1 site • 50 pages • 50 MB | Unlimited visits | Visual block builder (no code required) | `*.tilda.ws` | ❌ Paid plans only | ✅ Yes |
-| [**Bubble Free**](https://bubble.io/) | Visual web app builder | Development traffic | No-code database + workflow logic | `*.bubbleapps.io` | ❌ Paid plans only | ❌ Dev mode |
+| Platform | Monthly Bandwidth | Free Quotas & Limits | Free Subdomain | Custom Domain, SSL & Usage |
+| :--- | :---: | :--- | :--- | :--- |
+| [**Cloudflare Pages**](https://pages.cloudflare.com/) | **Unlimited** | 25 MB/file • 20k files • 500 builds/mo | `*.pages.dev` | ✅ Auto SSL • Commercial OK |
+| [**GitHub Pages**](https://pages.github.com/) | 100 GB / mo | 1 GB repo • 10 builds/hr (Actions) | `*.github.io` | ✅ Let's Encrypt • OSS / Docs |
+| [**Vercel**](https://vercel.com/) | 100 GB / mo | 100 MB bundle • 6,000 build mins/mo | `*.vercel.app` | ✅ Auto SSL • Hobby Only |
+| [**Netlify**](https://www.netlify.com/) | 100 GB / mo | 100 GB assets • 300 build mins/mo • Forms | `*.netlify.app` | ✅ Auto SSL • Commercial OK |
+| [**Render Static Sites**](https://render.com/) | 100 GB / mo | Unlimited static files • Auto Git deploy | `*.onrender.com` | ✅ Auto SSL • Commercial OK |
+| [**DigitalOcean App Platform**](https://www.digitalocean.com/products/app-platform) | 1 GiB / site | **3 Static Sites Free** • Global CDN | `*.ondigitalocean.app` | ✅ Auto SSL • Commercial OK |
+| [**GitLab Pages**](https://docs.gitlab.com/ee/user/project/pages/) | Unlimited (Fair) | 10 GB repo • 400 CI/CD mins/mo | `*.gitlab.io` | ✅ Auto SSL • Commercial OK |
+| [**Surge.sh**](https://surge.sh/) | Fair use CDN | Unlimited static projects (`npx surge`) | `*.surge.sh` | ✅ CNAME + SSL • Commercial OK |
+| [**Neocities**](https://neocities.org/) | **200 GB / mo** | **1 GB Storage** • Browser HTML editor | `*.neocities.org` | ✅ Custom Domain • Commercial OK |
+| [**Firebase Hosting**](https://firebase.google.com/docs/hosting) | 10 GB / mo | 10 GB SSD • Google Cloud CDN | `*.web.app` | ✅ Auto SSL • Commercial OK |
+| [**Kinsta Static Hosting**](https://kinsta.com/static-site-hosting/) | 100 GB / mo | Up to 100 sites • 600 build mins/mo | `*.kinsta.page` | ✅ Auto SSL • Commercial OK |
+| [**Deno Deploy**](https://deno.com/deploy) | 100 GiB / mo | 1,000,000 edge requests/mo | `*.deno.dev` | ✅ Auto SSL • Commercial OK |
+| [**Codeberg Pages**](https://codeberg.page/) | Fair use | FOSS Git repo limit (Gitea-based) | `*.codeberg.page` | ✅ Auto SSL • FOSS Only |
+| [**SourceForge**](https://sourceforge.net/) | Unlimited FOSS | SFTP/SCP upload • PHP & static web | `*.sourceforge.io` | ✅ Custom Domain • FOSS Only |
+| [**Read the Docs**](https://readthedocs.org/) | Unlimited Docs | Sphinx / MkDocs auto-build + PDF | `*.readthedocs.io` | ✅ Custom Domain • Docs Only |
+| [**Tilda Free**](https://tilda.cc/) | Unlimited visits | 1 site • 50 pages • 50 MB visual builder | `*.tilda.ws` | ❌ Paid for custom domain |
+| [**Bubble Free**](https://bubble.io/) | Dev traffic | Visual no-code web app builder | `*.bubbleapps.io` | ❌ Dev mode only |
 
 ### 💡 Which Static Host Should You Pick for Free Homepage Hosting?
 1. **Best Overall & Unlimited Traffic:** **Cloudflare Pages** — The only tier-1 platform that gives you **unlimited monthly bandwidth** and commercial usage rights on the free plan.
@@ -108,22 +108,22 @@ Need classic dynamic **free web hosting** with a control panel (cPanel / DirectA
 
 > ⚠️ **Note on 000webhost:** *000webhost officially shut down in October 2024.* Its parent company (**Hostinger**) migrated users to its low-cost NVMe platform ([**see Hostinger's Free Domain + $1.99/mo offer above**](#-featured-free-cloud-credits-free-domain-bundles--budget-deals)), while **InfinityFree** and **AwardSpace** remain the top 100% free cPanel alternatives.
 
-| Provider | Disk Space | Monthly Bandwidth | Databases & Stack | Control Panel | Forced Ads? | Free Subdomain / Custom Domain |
-| :--- | :---: | :---: | :--- | :--- | :---: | :--- |
-| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** ( up to 3 accounts) | **Unlimited** (50k daily hits limit) | PHP 8.2, MySQL (400 DBs), Softaculous (WordPress) | VistaPanel (cPanel-style) | ✅ **No Ads** | `*.rf.gd`, `*.epizy.com`, `*.42web.io` + Custom Domain |
-| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** | **5 GB / month** | PHP 8.x, 1 MySQL DB (30 MB), Zacky WordPress/Joomla Installer | Custom Hosting Panel + FTP | ✅ **No Ads** | 1 Domain + 3 Free `.dx.am` / `.atwebpages.com` subdomains |
-| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** | **50 GB / month** | PHP 8, 5 MySQL DBs, FTP, Softaculous Installer | VistaPanel | ✅ **No Ads** | `*.byethost.com` + 5 Addon / Parked Domains |
-| [**HelioHost**](https://heliohost.org/) | **1,000 MB** | **Unlimited** | PHP, **Python, Node.js, Ruby, Java**, MySQL & PostgreSQL | **Plesk Control Panel** | ✅ **No Ads** | `*.helioho.st` + Custom Domains + Free SSL |
-| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** | **Unlimited** | PHP, Python, Node.js, Ruby, Go, Elixir, MySQL, PostgreSQL, CouchDB | Custom Panel + **SSH / WebDAV** | ✅ **No Ads** | `*.alwaysdata.net` + Custom Domains + 100 MB Mailbox |
-| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** | **100 GB / month** | PHP 8, 2 MySQL DBs, LiteSpeed Web Server, WordPress Manager | DirectAdmin | ✅ **No Ads** | `*.cu.ma`, `*.c1.biz` + Custom Domains + Free SSL |
-| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** (WordPress / PHP) | **25,000 visits / mo** | PHP 8.x, 1x 1GB MySQL DB, Global CDN, 80+ 1-click apps | My20i Panel | ✅ **No Ads** | Free CDN + Custom Domain + Free SSL |
-| [**Freehostia**](https://www.freehostia.com/free-plan.html) | **250 MB** | **6 GB / month** | PHP, 10 MB MySQL DB, Elefante 1-Click Script Installer | Hepsia Control Panel | ✅ **No Ads** | Host up to 5 Custom Domains |
-| [**ProFreeHost**](https://profreehost.com/) | **Unlimited** (Inode limit) | **Unlimited** | PHP 8, MySQL, Softaculous 1-Click Installer, FTP | Custom cPanel | ✅ **No Ads** | `*.unaux.com`, `*.ezyro.com` + Custom Domains |
-| [**AeonFree**](https://aeonfree.com/) | **5 GB Disk** | **Unlimited** | PHP 8, MySQL, Softaculous WordPress, Free SSL | VistaPanel + File Manager | ✅ **No Ads** | Free Subdomain + Custom Domain |
-| [**TinkerHost**](https://tinkerhost.net/) | **5 GB Disk** | **100 GB / month** | PHP, MySQL, Softaculous, Free SSL Cert Generator | Client Panel + VistaPanel | ✅ **No Ads** | Free Subdomains + Custom Domains |
-| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** | **Unlimited** | PHP 8, MySQL, 1-Click WordPress | DirectAdmin Panel | ✅ **No Ads** | `*.x10.mx`, `*.x10.bz` + Custom Domains |
-| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** | **Unlimited** | PHP, Python, Node.js, Ruby, Go, Rust, MySQL, PostgreSQL, MongoDB | DevilWEB + **Full SSH (FreeBSD)** | ✅ **No Ads** | `*.serv00.net` + Custom Domains |
-| [**Pantheon**](https://pantheon.io/) | Sandbox Sites | Dev/Stage Traffic | Managed **WordPress & Drupal** with Git + Dev/Test/Live workflows | Pantheon Dashboard + Terminus CLI | ✅ **No Ads** | `*.pantheonsite.io` |
+| Provider | Disk & Bandwidth | Databases & Stack | Control Panel & Ads | Free Subdomain / Custom Domain |
+| :--- | :--- | :--- | :--- | :--- |
+| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** • Unlimited BW (50k hits/day) | PHP 8.2, MySQL (400 DBs), Softaculous (WP) | VistaPanel • ✅ **No Ads** | `*.rf.gd`, `*.42web.io` + Custom Domain |
+| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** • 5 GB / month | PHP 8.x, 1 MySQL DB, Zacky WP Installer | Custom Panel + FTP • ✅ **No Ads** | 1 Domain + 3 `.dx.am` subdomains |
+| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** • 50 GB / month | PHP 8, 5 MySQL DBs, Softaculous | VistaPanel • ✅ **No Ads** | `*.byethost.com` + 5 Addon Domains |
+| [**HelioHost**](https://heliohost.org/) | **1,000 MB** • Unlimited BW | PHP, Python, Node, Ruby, Java, MySQL, Postgres | **Plesk** • ✅ **No Ads** | `*.helioho.st` + Custom Domains + SSL |
+| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** • Unlimited BW | PHP, Python, Node, Go, Ruby, MySQL, Postgres | Custom + **SSH** • ✅ **No Ads** | `*.alwaysdata.net` + Custom + Mailbox |
+| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** • 100 GB / mo | PHP 8, 2 MySQL DBs, LiteSpeed, WordPress | DirectAdmin • ✅ **No Ads** | `*.cu.ma`, `*.c1.biz` + Custom + SSL |
+| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** • 25,000 visits / mo | PHP 8.x, 1 GB MySQL, Global CDN, 80+ apps | My20i Panel • ✅ **No Ads** | Free CDN + Custom Domain + Free SSL |
+| [**Freehostia**](https://www.freehostia.com/free-plan.html) | **250 MB** • 6 GB / month | PHP, 10 MB MySQL DB, Elefante Installer | Hepsia Panel • ✅ **No Ads** | Host up to 5 Custom Domains |
+| [**ProFreeHost**](https://profreehost.com/) | **Unlimited** (Inode cap) • Unlimited BW | PHP 8, MySQL, Softaculous, FTP | Custom cPanel • ✅ **No Ads** | `*.unaux.com`, `*.ezyro.com` + Custom |
+| [**AeonFree**](https://aeonfree.com/) | **5 GB Disk** • Unlimited BW | PHP 8, MySQL, Softaculous WP, Free SSL | VistaPanel • ✅ **No Ads** | Free Subdomain + Custom Domain |
+| [**TinkerHost**](https://tinkerhost.net/) | **5 GB Disk** • 100 GB / month | PHP, MySQL, Softaculous, Free SSL | Client + VistaPanel • ✅ **No Ads** | Free Subdomains + Custom Domains |
+| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** • Unlimited BW | PHP 8, MySQL, 1-Click WordPress | DirectAdmin • ✅ **No Ads** | `*.x10.mx`, `*.x10.bz` + Custom Domains |
+| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** • Unlimited BW | PHP, Python, Node, Go, Rust, MySQL, Postgres | DevilWEB + **SSH** • ✅ **No Ads** | `*.serv00.net` + Custom Domains |
+| [**Pantheon**](https://pantheon.io/) | Sandbox Sites • Dev/Stage Traffic | Managed **WordPress & Drupal** + Git | Pantheon + CLI • ✅ **No Ads** | `*.pantheonsite.io` |
 
 ---
 
