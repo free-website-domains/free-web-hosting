@@ -138,6 +138,10 @@
     td a { color: #38bdf8; text-decoration: none; font-weight: 600; }
     td a:hover { text-decoration: underline; }
     .preview { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--border); margin: 16px 0 36px; }
+    .silo-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 16px 0 36px; }
+    .silo-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px; text-decoration: none; color: var(--text); font-size: 14px; font-weight: 600; transition: 0.15s ease; }
+    .silo-card:hover { border-color: var(--accent-blue); background: var(--surface-alt); }
+    .silo-card span { display: block; font-size: 12px; font-weight: 400; color: var(--muted); margin-top: 4px; }
     footer { margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--border); color: var(--muted); font-size: 13px; }
   </style>
 </head>
@@ -146,10 +150,10 @@
     <nav>
       <a class="brand" href="./">free-website-domains / free-web-hosting</a>
       <div class="nav-links">
-        <a href="#deals">$200+ Cloud Credits</a>
-        <a href="#static">Static &amp; Homepage</a>
-        <a href="#php">PHP &amp; WordPress</a>
-        <a href="#domains">Free Domains (70+)</a>
+        <a href="./free-domains.html">Free Domains</a>
+        <a href="./free-homepage-hosting.html">Homepage &amp; Static</a>
+        <a href="./free-wordpress-php-hosting.html">WordPress &amp; PHP</a>
+        <a href="./free-cloud-vps-credits.html">Cloud VPS &amp; $200 Credit</a>
         <a href="https://github.com/free-website-domains/free-web-hosting">GitHub Repo ⭐</a>
       </div>
     </nav>
@@ -168,6 +172,14 @@
     </div>
 
     <img class="preview" src="assets/preview.svg" alt="Free Web Hosting and Free Domains Comparison Table" />
+
+    <h2>📚 Explore by Category</h2>
+    <div class="silo-links">
+      <a class="silo-card" href="./free-domains.html">Free Domains &amp; Subdomains <span>EU.org, DigitalPlat, is-a.dev, Namecheap .me</span></a>
+      <a class="silo-card" href="./free-homepage-hosting.html">Free Homepage &amp; Static Sites <span>Cloudflare Pages, GitHub Pages, Neocities</span></a>
+      <a class="silo-card" href="./free-wordpress-php-hosting.html">Free WordPress, PHP &amp; MySQL <span>InfinityFree, HelioHost, AwardSpace, Hostinger</span></a>
+      <a class="silo-card" href="./free-cloud-vps-credits.html">Free Cloud VPS &amp; $200 Credits <span>DigitalOcean $200, Oracle ARM, HF Spaces</span></a>
+    </div>
 
     <h2 id="deals">🏆 Featured Cloud Credits, Free Domain Bundles &amp; Deals</h2>
     <div class="deals-grid">

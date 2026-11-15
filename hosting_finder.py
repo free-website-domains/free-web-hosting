@@ -17,8 +17,9 @@ PROVIDERS_PATH = ROOT_DIR / "providers.json"
 SYNC_FILES = [
     ROOT_DIR / "README.md",
     ROOT_DIR / "llms.txt",
-    ROOT_DIR / "docs" / "index.html",
     ROOT_DIR / "docs" / "llms.txt",
+    *sorted((ROOT_DIR / "docs").glob("*.html")),
+    *sorted((ROOT_DIR / "guides").glob("*.md")),
 ]
 
 

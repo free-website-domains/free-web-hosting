@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/free-website-domains/free-web-hosting?style=social)](https://github.com/free-website-domains/free-web-hosting/stargazers)
 
-[**🔥 $200+ Cloud Credits & Deals**](#-featured-free-cloud-credits-free-domain-bundles--budget-deals) • [**⚡ Host Free Sites (Static/Jamstack)**](#-host-free-sites-best-free-static--homepage-hosting-platforms) • [**🐘 Free PHP, MySQL & WordPress**](#-free-website-hosting-with-php-mysql-cpanel--wordpress) • [**🐳 Free Cloud VPS & Docker**](#-free-full-stack-nodejs-python-docker--cloud-vps-hosting) • [**🌐 Free Domains (70+ List)**](#-free-domains--free-site-domain-name-providers-70-active-registries) • [**🗄️ Free Databases**](#-free-managed-databases-postgresql-mysql-mongodb-redis) • [**❓ FAQ**](#-frequently-asked-questions-faq)
+[**🔥 $200+ Cloud Credits & Deals**](#-featured-free-cloud-credits-free-domain-bundles--budget-deals) • [**📚 Deep-Dive Guides**](#-deep-dive-guides--category-comparisons) • [**⚡ Host Free Sites (Static/Jamstack)**](#-host-free-sites-best-free-static--homepage-hosting-platforms) • [**🐘 Free PHP, MySQL & WordPress**](#-free-website-hosting-with-php-mysql-cpanel--wordpress) • [**🐳 Free Cloud VPS & Docker**](#-free-full-stack-nodejs-python-docker--cloud-vps-hosting) • [**🌐 Free Domains (70+ List)**](#-free-domains--free-site-domain-name-providers-70-active-registries) • [**🗄️ Free Databases**](#-free-managed-databases-postgresql-mysql-mongodb-redis) • [**❓ FAQ**](#-frequently-asked-questions-faq)
 
 </div>
 
@@ -54,6 +54,20 @@ Before choosing where to get your **free website hosted**, compare how 100% free
 | **Forced Ads on Your Website** | ✅ **Zero Ads** | ✅ **Zero Ads** (on verified list) | ✅ **Zero Ads** | ✅ **Zero Ads** |
 | **Outgoing Email (SMTP / Custom Mail)** | ❌ Not included | ❌ Blocked on free plans | ✅ Supported (upon verification) | ✅ **Up to 100 Free Business Emails** |
 | **Uptime & Performance** | ⚡ **99.99% Global CDN** | ⚠️ ~98.5% (Shared CPU limits) | ⚡ **99.99% Dedicated VM** | ⚡ **99.9% LiteSpeed + NVMe CDN** |
+
+---
+
+## 📚 Deep-Dive Guides & Category Comparisons
+
+Explore our dedicated internal guides and interactive web pages for step-by-step setup instructions, DNS configuration examples, and side-by-side benchmarks:
+
+| Topic / Search Intent | Markdown Guide (GitHub) | Interactive Web Guide (GitHub Pages) | Key Providers Covered |
+| :--- | :--- | :--- | :--- |
+| **Free Domains & Free Site Domain Names** | [**Free Domains & Subdomains Guide**](guides/free-domains-and-subdomains.md) | [**free-domains.html**](https://free-website-domains.github.io/free-web-hosting/free-domains.html) | `EU.org`, `DigitalPlat`, `is-a.dev`, `js.org`, `Namecheap`, `DuckDNS` |
+| **Free Homepage & Static Site Hosting** | [**Free Homepage & Static Hosting Guide**](guides/free-homepage-and-static-hosting.md) | [**free-homepage-hosting.html**](https://free-website-domains.github.io/free-web-hosting/free-homepage-hosting.html) | `Cloudflare Pages`, `GitHub Pages`, `Neocities`, `Netlify`, `Vercel` |
+| **Free WordPress, PHP & MySQL Hosting** | [**Free WordPress & PHP/MySQL Guide**](guides/free-wordpress-and-php-mysql-hosting.md) | [**free-wordpress-php-hosting.html**](https://free-website-domains.github.io/free-web-hosting/free-wordpress-php-hosting.html) | `InfinityFree`, `AwardSpace`, `HelioHost`, `Hostinger`, `Cloudways` |
+| **Free Cloud VPS, Docker & $200 Credits** | [**Free Cloud VPS & $200 Credits Guide**](guides/free-cloud-vps-and-200-dollar-credits.md) | [**free-cloud-vps-credits.html**](https://free-website-domains.github.io/free-web-hosting/free-cloud-vps-credits.html) | `DigitalOcean $200`, `Oracle Cloud`, `Hugging Face`, `Render`, `Koyeb` |
+| **Free Web Hosting vs. Cheap Hosting** | [**Free vs. Cheap Hosting Benchmark**](guides/comparison-free-vs-cheap-hosting.md) | [**Main Web Directory**](https://free-website-domains.github.io/free-web-hosting/) | TTFB latency, SEO subdomain lock-in, SMTP email & `.com` bundles |
 
 ---
 
