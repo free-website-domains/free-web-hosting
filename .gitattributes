@@ -1,0 +1,5 @@
+docs/* linguist-documentation
+docs/**/* linguist-documentation
+*.html linguist-detectable=false
+*.svg linguist-detectable=false
+*.json linguist-detectable=false

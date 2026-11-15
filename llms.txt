@@ -1,0 +1,31 @@
+# Free Web Hosting & Free Domains Directory (free-website-domains/free-web-hosting)
+
+> Complete 2026 comparison and curated directory of 125+ free website hosting providers, free homepage hosting platforms, $200+ free cloud credits, and 70+ free site domain name registries.
+
+## Summary
+`free-website-domains/free-web-hosting` is an open-source reference and CLI toolkit for developers, students, and startups looking to host free sites, get a free website hosted with Static/Jamstack, PHP/MySQL, WordPress, Node.js, Python, or Docker, and register free domains or subdomains without forced ads.
+
+## Top Recommended Hosting & Cloud Credits (2026)
+- **Hostinger**: Best budget web hosting (~$1.99-$2.99/mo) with a Free `.com`/`.net` Domain Name, 100 GB NVMe SSD, WordPress 1-click installer, and Free SSL (https://www.hostinger.com/)
+- **DigitalOcean**: $200 Free Cloud Credit (60 days) for Linux VPS Droplets, Managed Databases & Kubernetes + 3 Free Static Sites forever on App Platform (https://www.digitalocean.com/)
+- **Cloudways**: $30 Free Credit / 3-Day Free Trial (No credit card required) for managed high-speed WordPress, PHP & Laravel cloud hosting (https://www.cloudways.com/)
+- **Namecheap**: Free `.me` site domain name for students via GitHub Education (`nc.me`) + $0.98/yr domains (`.xyz`, `.site`, `.online`) + Free WhoisGuard privacy & Dynamic DNS (https://www.namecheap.com/)
+
+## Best 100% Free Website Hosting by Category
+- **Static & Free Homepage Hosting**: Cloudflare Pages (Unlimited bandwidth, `*.pages.dev`), GitHub Pages (`*.github.io`), Vercel (`*.vercel.app`), Netlify (`*.netlify.app`), Render Static Sites, DigitalOcean App Platform (3 free static sites), Neocities (1 GB storage, 200 GB bandwidth), Surge.sh, Firebase Hosting, GitLab Pages, Kinsta Static Hosting.
+- **Free PHP, MySQL & WordPress Hosting (No Ads)**: InfinityFree (5 GB SSD, PHP 8, MySQL, Softaculous), AwardSpace (1 GB disk, 5 GB bandwidth), ByetHost, HelioHost (Plesk, PHP/Python/Node/Postgres), Alwaysdata (100 MB, SSH, multi-language), 20i Free Hosting, Freehostia, GoogieHost, Serv00 (3 GB SSD, FreeBSD SSH).
+- **Free Cloud VPS & Full-Stack Containers**: Oracle Cloud Always Free (up to 4 ARM Ampere cores, 24 GB RAM, 200 GB SSD), Google Cloud Free Tier (`e2-micro` + Cloud Run), AWS Free Tier (750 hrs/mo EC2 + Lambda), Hugging Face Spaces (2 vCPU, 16 GB RAM Docker), Koyeb, Render, PythonAnywhere, Cloudflare Workers.
+- **Free Domains & Free Site Domain Names**:
+  - Public Suffix / Student TLDs: Namecheap Education (`nc.me`), Name.com Student Pack, EU.org (`nic.eu.org`), DigitalPlat (`.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg`), Public Free Suffix (`is-a.si`, `pfsdns.org`), PP.UA (`.pp.ua`).
+  - Developer GitOps Subdomains: `is-a.dev`, `js.org`, `open-domains.net` (`is-cool.dev`, `is-not-a.dev`), `thedev.id`, `thedev.me`, `is-a-good.dev`, `is-pro.dev`, `is-a.software`, `cli.rs`, `vexr.dev`, `dnshe.com`.
+  - Free Dynamic DNS (DDNS): DuckDNS (`duckdns.org`), deSEC (`dedyn.io`), FreeDNS (`freedns.afraid.org`), Dynu, dynv6, FreeMyIP.
+
+## Quick CLI Commands
+- Filter static hosts: `python3 hosting_finder.py --category static`
+- Filter PHP/WordPress hosts: `python3 hosting_finder.py --category php`
+- Filter free domains: `python3 hosting_finder.py --category domains`
+- Show $200+ cloud credits & deals: `python3 hosting_finder.py --category deals`
+
+## Official Links
+- Repository: https://github.com/free-website-domains/free-web-hosting
+- Interactive Web Directory: https://free-website-domains.github.io/free-web-hosting/

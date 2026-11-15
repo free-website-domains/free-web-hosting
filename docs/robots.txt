@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://free-website-domains.github.io/free-web-hosting/sitemap.xml
