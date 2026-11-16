@@ -20,7 +20,7 @@
 
 Finding reliable **free web hosting** and a **free site domain name** without hidden renewal traps, forced pop-up advertisements, or sudden account suspensions is harder than ever. Many legacy services (like *000webhost*, *Freenom `.tk/.ml`*, *Heroku Free*, and *Glitch Containers*) have shut down or restricted their free tiers.
 
-This repository is the most comprehensive, actively maintained open-source comparison of **free website hosting** platforms, **free homepage hosting** services, **free web hosting and domain** bundles, and **free domains** for developers, students, startups, and creators. Whether you want to **host free sites** using HTML/CSS/React, get a dynamic **free website hosted** with PHP 8 & MySQL, deploy a full-stack Docker container, or register a permanent **free site domain name**, every verified option is benchmarked below.
+This repository is an actively maintained open-source comparison of **free website hosting** platforms, **free homepage hosting** services, **free web hosting and domain** bundles, and **free domains** for developers, students, and creators. Whether you want to **host free sites** with HTML/CSS/React, get a dynamic **free website hosted** with PHP 8 and MySQL, run a Docker container, or register a **free site domain name**, every verified option is benchmarked below.
 
 ![Free Web Hosting and Free Domains Comparison Preview](docs/assets/preview.svg)
 
@@ -73,7 +73,7 @@ Explore our dedicated internal guides and interactive web pages for step-by-step
 
 ## ⚡ Host Free Sites: Best Free Static & Homepage Hosting Platforms
 
-If you want to **host free sites** built with HTML, CSS, JavaScript, React, Vue, Next.js, Astro, Hugo, or Jekyll, static edge platforms are the gold standard. They offer **free homepage hosting** with global CDN caching, automatic Git deployments, custom domain support, and **zero forced ads**.
+If you want to **host free sites** built with HTML, CSS, JavaScript, React, Vue, Next.js, Astro, Hugo, or Jekyll, static edge platforms are the fastest, lowest-maintenance option. They provide **free homepage hosting** with global CDN caching, automatic Git deploys, custom domain support, and zero forced ads.
 
 | Platform | Monthly Bandwidth | Free Quotas & Limits | Free Subdomain | Custom Domain, SSL & Usage |
 | :--- | :---: | :--- | :--- | :--- |
@@ -96,9 +96,9 @@ If you want to **host free sites** built with HTML, CSS, JavaScript, React, Vue,
 | [**Bubble Free**](https://bubble.io/) | Dev traffic | Visual no-code web app builder | `*.bubbleapps.io` | ❌ Dev mode only |
 
 ### 💡 Which Static Host Should You Pick for Free Homepage Hosting?
-1. **Best Overall & Unlimited Traffic:** **Cloudflare Pages** — The only tier-1 platform that gives you **unlimited monthly bandwidth** and commercial usage rights on the free plan.
-2. **Best for Open-Source & Developer Portfolios:** **GitHub Pages** — Lives directly inside your repository (`username.github.io`) and integrates seamlessly with free developer domains like `.is-a.dev` and `.js.org`.
-3. **Best Retro / Indie Free Homepage Hosting:** **Neocities** — The spiritual successor to GeoCities with 1 GB storage, 200 GB bandwidth, no build step required, and a vibrant community directory.
+1. **Best Overall & Unlimited Traffic:** **Cloudflare Pages** — The only major platform with unlimited monthly bandwidth and commercial usage rights on the free plan.
+2. **Best for Open-Source & Developer Portfolios:** **GitHub Pages** — Lives directly inside your repository (`username.github.io`) and connects cleanly with free developer domains like `.is-a.dev` and `.js.org`.
+3. **Best Retro / Indie Free Homepage Hosting:** **Neocities** — Modeled on classic personal web directories, with 1 GB storage, 200 GB bandwidth, no build step required, and an in-browser HTML editor.
 
 ---
 
@@ -161,7 +161,7 @@ Looking for **free domains** or a **free site domain name** to connect to your G
 | :--- | :--- | :--- | :---: | :--- | :---: |
 | **Namecheap Education (`nc.me`)** | **`.me`** *(+ discounts on `.tech`, `.live`, `.studio`)* | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | ✅ **Yes (Full TLD)** | Verified Student Email / GitHub Student Pack (Free 1 yr + Free SSL) | [nc.me](https://nc.me/) |
 | **Name.com Student Partner** | **`.live`, `.studio`, `.software`, `.games`, `.app`, `.dev`** | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | ✅ **Yes (Full TLD)** | GitHub Student Developer Pack member | [name.com/partner/github-students](https://www.name.com/partner/github-students) |
-| **EU.org Free Domain Registry** | **`.eu.org`** *( also country prefixes like `.de.eu.org`, `.nl.eu.org`)* | Full `NS` Delegation | ✅ **Yes (In Mozilla PSL — works on Cloudflare!)** | Free account + pre-configured nameservers (operating since 1996) | [nic.eu.org](https://nic.eu.org/) |
+| **EU.org Free Domain Registry** | `.eu.org` *(also country prefixes like `.de.eu.org`, `.nl.eu.org`)* | Full `NS` Delegation | ✅ Yes (In Mozilla PSL, works on Cloudflare) | Free account + pre-configured nameservers (active since 1996) | [nic.eu.org](https://nic.eu.org/) |
 | **DigitalPlat FreeDomain** | **`.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` | ✅ **Yes (Supports Cloudflare NS)** | Free registration via DigitalPlat dashboard | [domain.digitalplat.org](https://domain.digitalplat.org/) |
 | **Public Free Suffix** | **`is-a.si`, `pfsdns.org`, `nastu.net`, `tun.re`, `no.kg`, `so.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` + REST API & MCP | ✅ **Yes** | Free developer/creator registration (nonprofit) | [publicfreesuffix.org](https://publicfreesuffix.org/) |
 | **PP.UA Registry** | **`.pp.ua`** *(Private Person Ukraine)* | Full `NS` Delegation | ✅ **Yes (In Mozilla PSL)** | Free registration via partner registrars + phone/Telegram activation | [pp.ua](https://pp.ua/) |
@@ -254,12 +254,12 @@ Many modern **free web hosting** platforms (like Vercel, Netlify, Cloudflare Pag
 
 ## 🛠️ How to Get a Free Website Hosted with a Free Domain in 5 Minutes
 
-Follow this battle-tested blueprint to launch a fast, globally cached website with **100% free web hosting and a custom free domain name**:
+Use these steps to launch a cached site with **100% free web hosting and a custom free domain name**:
 
 ### Step 1: Deploy Your Site on Free Web Hosting (Cloudflare Pages or GitHub Pages)
 1. Push your `index.html` (or Next.js / Astro / Hugo / Vite project) to a public or private GitHub repository.
 2. Sign in to [**Cloudflare Pages**](https://pages.cloudflare.com/) (for unlimited bandwidth) or enable **Settings → Pages** in your GitHub repository.
-3. Within 30 seconds, your **free website hosted** endpoint goes live at `https://your-project.pages.dev` or `https://username.github.io/repo/`.
+3. Within 30 seconds, your **free website is hosted** and live at `https://your-project.pages.dev` or `https://username.github.io/repo/`.
 
 ### Step 2: Claim a Free Site Domain Name (Or Grab a $0.98–Free `.com` Bundle)
 * **Option A (100% Free Developer Subdomain):** Fork [`is-a-dev/register`](https://github.com/is-a-dev/register) (or [`open-domains/register`](https://github.com/open-domains/register)), add `domains/yourname.json` pointing a `CNAME` record to `your-project.pages.dev`, and open a Pull Request. Once merged, your custom SSL certificate is issued automatically!
