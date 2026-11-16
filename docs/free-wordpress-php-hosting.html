@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Free Website Hosting with PHP, MySQL &amp; WordPress (2026) — 000webhost Alternatives</title>
+  <title>Free Website Hosting with PHP, MySQL &amp; WordPress (2026)</title>
   <meta name="description" content="Best ad-free free website hosting for WordPress, PHP 8, and MySQL in 2026 after 000webhost shut down: InfinityFree, 20i, AwardSpace, HelioHost, Serv00, plus Hostinger &amp; Cloudways deals." />
   <link rel="canonical" href="https://free-website-domains.github.io/free-web-hosting/free-wordpress-php-hosting.html" />
   <meta property="og:title" content="Free Website Hosting with PHP, MySQL &amp; WordPress (2026)" />
@@ -11,6 +11,10 @@
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://free-website-domains.github.io/free-web-hosting/free-wordpress-php-hosting.html" />
   <meta property="og:image" content="https://free-website-domains.github.io/free-web-hosting/assets/preview.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Radio+Canada+Big:wght@400;700&family=Radio+Canada:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -37,164 +41,187 @@
     ]
   }
   </script>
-  <style>
-    :root {
-      --bg: #0b0f17; --surface: #131b2e; --surface-alt: #1a243b; --border: #26334d;
-      --text: #f1f5f9; --muted: #94a3b8; --accent: #10b981; --accent-blue: #3b82f6; --amber: #f59e0b;
-      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
-    }
-    * { box-sizing: border-box; }
-    html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: var(--font-sans); line-height: 1.6; overflow-x: clip; }
-    .container { width: 100%; max-width: 1080px; margin: 0 auto; padding: 28px 20px 72px; }
-    nav { display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px; border-bottom: 1px solid var(--border); margin-bottom: 28px; flex-wrap: wrap; gap: 12px; }
-    .brand { font-weight: 700; color: var(--text); text-decoration: none; font-size: 16px; }
-    .nav-links { display: flex; gap: 16px; font-size: 14px; flex-wrap: wrap; }
-    .nav-links a { color: var(--muted); text-decoration: none; }
-    .nav-links a:hover, .nav-links a.active { color: var(--text); font-weight: 600; }
-    .breadcrumbs { font-size: 13px; color: var(--muted); margin-bottom: 16px; }
-    .breadcrumbs a { color: #38bdf8; text-decoration: none; }
-    .badge { display: inline-block; padding: 4px 12px; border-radius: 999px; background: rgba(16, 185, 129, 0.14); color: #34d399; font-size: 12px; font-weight: 600; margin-bottom: 12px; }
-    h1 { font-size: clamp(26px, 4vw, 40px); line-height: 1.18; margin: 0 0 14px; }
-    .lead { font-size: 17px; color: var(--muted); max-width: 75ch; margin: 0 0 28px; }
-    h2 { font-size: 22px; margin: 38px 0 14px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
-    .table-wrap { width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 24px; }
-    table { width: 100%; min-width: 680px; border-collapse: collapse; font-size: 14px; }
-    th, td { padding: 12px 14px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
-    th { background: var(--surface-alt); color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; white-space: nowrap; }
-    td code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12.5px; white-space: nowrap; }
-    tr:last-child td { border-bottom: none; }
-    td a { color: #38bdf8; text-decoration: none; font-weight: 600; }
-    .deals-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin-bottom: 36px; }
-    .deal-card { background: linear-gradient(180deg, var(--surface-alt) 0%, var(--surface) 100%); border: 1px solid var(--border); border-radius: 12px; padding: 20px; display: flex; flex-direction: column; justify-content: space-between; }
-    .deal-tag { display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; color: var(--amber); margin-bottom: 6px; letter-spacing: 0.05em; }
-    .deal-card h3 { margin: 0 0 8px; font-size: 18px; }
-    .deal-card p { margin: 0 0 16px; font-size: 13.5px; color: var(--muted); }
-    .deal-link { display: inline-block; text-align: center; padding: 9px 14px; border-radius: 6px; background: rgba(59, 130, 246, 0.18); color: #60a5fa; text-decoration: none; font-weight: 600; font-size: 13px; border: 1px solid rgba(59, 130, 246, 0.35); }
-    .deal-link:hover { background: var(--accent-blue); color: #fff; }
-    .silo-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 24px; }
-    .silo-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px; text-decoration: none; color: var(--text); font-size: 14px; font-weight: 600; }
-    .silo-card span { display: block; font-size: 12px; font-weight: 400; color: var(--muted); margin-top: 4px; }
-    footer { margin-top: 56px; padding-top: 24px; border-top: 1px solid var(--border); color: var(--muted); font-size: 13px; }
-  </style>
 </head>
 <body>
-  <div class="container">
-    <nav>
-      <a class="brand" href="./">free-website-domains / free-web-hosting</a>
-      <div class="nav-links">
-        <a href="./">All Providers</a>
-        <a href="./free-domains.html">Free Domains</a>
-        <a href="./free-homepage-hosting.html">Homepage &amp; Static</a>
-        <a href="./free-wordpress-php-hosting.html" class="active">WordPress &amp; PHP</a>
-        <a href="./free-cloud-vps-credits.html">Cloud VPS &amp; $200 Credit</a>
-        <a href="https://github.com/free-website-domains/free-web-hosting">GitHub Repo ⭐</a>
-      </div>
-    </nav>
+  <header class="site-header">
+    <div class="container site-nav">
+      <a class="wordmark" href="./">
+        <span class="wordmark-strong">Free Web</span>
+        <span class="wordmark-light">Hosting</span>
+      </a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="./">All providers</a>
+        <a href="./free-domains.html">Free domains</a>
+        <a href="./free-homepage-hosting.html">Homepage and static</a>
+        <a href="./free-wordpress-php-hosting.html" class="active">WordPress and PHP</a>
+        <a href="./free-cloud-vps-credits.html">Cloud VPS and credits</a>
+        <a href="https://github.com/free-website-domains/free-web-hosting">GitHub repository</a>
+      </nav>
+    </div>
+  </header>
 
-    <div class="breadcrumbs"><a href="./">Home</a> / Free WordPress, PHP &amp; MySQL Website Hosting</div>
-    <span class="badge">NO FORCED ADS • PHP 8.x • MYSQL &amp; WORDPRESS</span>
-    <h1>Free Website Hosting for WordPress, PHP &amp; MySQL (2026)</h1>
-    <p class="lead">
-      Since <strong>000webhost shut down</strong>, these are the verified <strong>free website hosting</strong> providers offering
-      cPanel/VistaPanel/Plesk, PHP 8+, MySQL databases, and 1-click WordPress installation with zero forced ads.
-    </p>
-
-    <div class="deals-grid">
-      <div class="deal-card">
-        <div>
-          <span class="deal-tag">Official 000webhost Successor + Free .COM</span>
-          <h3>Hostinger</h3>
-          <p>Up to 80% OFF (~$1.99/mo) + <strong>Free .com/.net Domain</strong> + 100 GB NVMe LiteSpeed WordPress hosting &amp; 100 free business email accounts.</p>
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="breadcrumbs"><a href="./">Home</a><span>/</span><span>Free WordPress and PHP hosting</span></div>
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <h1>Free WordPress and PHP hosting</h1>
+            <p class="lead">Verified 000webhost alternatives with PHP 8, MySQL databases, and 1-click WordPress installers without forced ads.</p>
+            <div class="cta-row">
+              <a class="btn btn--primary" href="#php-hosts">Compare PHP hosts</a>
+              <a class="btn btn--secondary" href="https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-wordpress-and-php-mysql-hosting.md">Read Markdown guide</a>
+            </div>
+          </div>
+          <div class="hero-panel">
+            <div class="hero-figure">10 GB</div>
+            <p class="hero-panel-note">Maximum free SSD quota on 20i Free Hosting, or 5 GB SSD and 400 MySQL databases on InfinityFree with Softaculous.</p>
+            <div class="cta-row">
+              <a class="btn btn--primary" href="#production">See production deals</a>
+            </div>
+          </div>
         </div>
-        <a class="deal-link" href="https://www.hostinger.com/" target="_blank" rel="noopener">Claim Free .COM + Hosting →</a>
       </div>
-      <div class="deal-card">
-        <div>
-          <span class="deal-tag">$30 Free Trial • No Card Required</span>
-          <h3>Cloudways</h3>
-          <p>Test <strong>Managed Cloud WordPress &amp; WooCommerce</strong> on dedicated NVMe DigitalOcean/AWS servers with a free 3-day trial and free migration.</p>
+    </section>
+
+    <section id="production" class="section section--well">
+      <div class="container">
+        <div class="section-head">
+          <h2>Production WordPress upgrades</h2>
+          <p class="lead">Avoid shared free CPU caps and blocked SMTP email with bundled domains and NVMe cloud servers.</p>
         </div>
-        <a class="deal-link" href="https://www.cloudways.com/" target="_blank" rel="noopener">Start Free Cloud Trial →</a>
+        <div class="deals-grid deals-grid--two">
+          <article class="deal-card">
+            <div>
+              <h3>Hostinger</h3>
+              <p>Up to 80% off (~$1.99/mo) with a free .com or .net domain, 100 GB NVMe LiteSpeed WordPress hosting, and 100 free business email accounts.</p>
+            </div>
+            <a class="deal-link" href="https://www.hostinger.com/" target="_blank" rel="noopener">Claim Hostinger deal</a>
+          </article>
+          <article class="deal-card">
+            <div>
+              <h3>Cloudways</h3>
+              <p>Test managed Cloud WordPress and WooCommerce on dedicated NVMe DigitalOcean or AWS servers with a 3-day free trial and free migration.</p>
+            </div>
+            <a class="deal-link" href="https://www.cloudways.com/" target="_blank" rel="noopener">Start Cloudways trial</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="php-hosts" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>100% free PHP and MySQL hosts</h2>
+          <p class="lead">Active shared control panels verified for zero forced pop-up or banner advertisements.</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Provider</th>
+                <th>Disk space</th>
+                <th>Bandwidth</th>
+                <th>Control panel and stack</th>
+                <th>Ads policy</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><a href="https://infinityfree.com/">InfinityFree</a></td>
+                <td>5 GB SSD</td>
+                <td>Unlimited (50k daily hits)</td>
+                <td>VistaPanel, PHP 8.2, 400 MySQL DBs, Softaculous WP</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://www.20i.com/free-hosting">20i Free Hosting</a></td>
+                <td>10 GB SSD</td>
+                <td>25,000 visits / month</td>
+                <td>My20i Panel, PHP 8, 1 GB MySQL, Global CDN</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://www.awardspace.com/free-web-hosting/">AwardSpace</a></td>
+                <td>1,000 MB</td>
+                <td>5 GB / month</td>
+                <td>Custom Panel, FTP, PHP 8, MySQL, 3 Subdomains</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://heliohost.org/">HelioHost</a></td>
+                <td>1,000 MB</td>
+                <td>Unlimited</td>
+                <td>Plesk, PHP, Python, Node.js, MySQL and PostgreSQL</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://www.serv00.com/">Serv00</a></td>
+                <td>3 GB SSD</td>
+                <td>Unlimited</td>
+                <td>DevilWEB, FreeBSD SSH, PHP, Python, Node, Go</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://www.alwaysdata.com/en/">Alwaysdata</a></td>
+                <td>100 MB</td>
+                <td>Unlimited</td>
+                <td>SSH, WebDAV, PHP, Python, Node, Ruby, MySQL, Postgres</td>
+                <td>Zero ads</td>
+              </tr>
+              <tr>
+                <td><a href="https://googiehost.com/">GoogieHost</a></td>
+                <td>1,000 MB NVMe</td>
+                <td>100 GB / month</td>
+                <td>DirectAdmin, LiteSpeed, PHP 8, 2 MySQL DBs</td>
+                <td>Zero ads</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--tight section--well">
+      <div class="container">
+        <div class="section-head">
+          <h2>More hosting guides</h2>
+          <p class="lead">Combine free PHP hosting with a custom domain or scale to Always-Free VPS.</p>
+        </div>
+        <div class="silo-grid">
+          <a class="silo-item" href="./free-domains.html">
+            <span class="silo-title">Free domains and subdomains</span>
+            <span class="silo-desc">EU.org, DigitalPlat, is-a.dev, Namecheap</span>
+          </a>
+          <a class="silo-item" href="./free-homepage-hosting.html">
+            <span class="silo-title">Free homepage and static hosting</span>
+            <span class="silo-desc">Cloudflare Pages, GitHub Pages, Neocities</span>
+          </a>
+          <a class="silo-item" href="./free-cloud-vps-credits.html">
+            <span class="silo-title">Free cloud VPS and $200 credits</span>
+            <span class="silo-desc">Oracle Cloud ARM, DigitalOcean $200, Render</span>
+          </a>
+          <a class="silo-item" href="https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-wordpress-and-php-mysql-hosting.md">
+            <span class="silo-title">Full Markdown guide on GitHub</span>
+            <span class="silo-desc">Read free PHP and WordPress limits</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="wordmark">
+        <span class="wordmark-strong">Free Web</span>
+        <span class="wordmark-light">Hosting</span>
+      </div>
+      <div class="footer-meta">
+        <span>MIT License</span>
+        <a href="https://github.com/free-website-domains/free-web-hosting">github.com/free-website-domains/free-web-hosting</a>
+        <a href="./llms.txt">llms.txt</a>
       </div>
     </div>
-
-    <h2>100% Free Ad-Free PHP, MySQL &amp; WordPress Hosts</h2>
-    <div class="table-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>Provider</th>
-            <th>Disk Space</th>
-            <th>Bandwidth</th>
-            <th>Control Panel &amp; Stack</th>
-            <th>Forced Ads?</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><a href="https://infinityfree.com/">InfinityFree</a></td>
-            <td>5 GB SSD</td>
-            <td>Unlimited (50k daily hits)</td>
-            <td>VistaPanel, PHP 8.2, 400 MySQL DBs, Softaculous WP</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://www.20i.com/free-hosting">20i Free Hosting</a></td>
-            <td>10 GB SSD</td>
-            <td>25,000 visits / month</td>
-            <td>My20i Panel, PHP 8, 1 GB MySQL, Global CDN</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://www.awardspace.com/free-web-hosting/">AwardSpace</a></td>
-            <td>1,000 MB</td>
-            <td>5 GB / month</td>
-            <td>Custom Panel + FTP, PHP 8, MySQL, 3 Subdomains</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://heliohost.org/">HelioHost</a></td>
-            <td>1,000 MB</td>
-            <td>Unlimited</td>
-            <td>Plesk, PHP, Python, Node.js, MySQL &amp; PostgreSQL</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://www.serv00.com/">Serv00</a></td>
-            <td>3 GB SSD</td>
-            <td>Unlimited</td>
-            <td>DevilWEB + Full FreeBSD SSH, PHP, Python, Node, Go</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://www.alwaysdata.com/en/">Alwaysdata</a></td>
-            <td>100 MB</td>
-            <td>Unlimited</td>
-            <td>SSH + WebDAV, PHP, Python, Node, Ruby, MySQL, Postgres</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-          <tr>
-            <td><a href="https://googiehost.com/">GoogieHost</a></td>
-            <td>1,000 MB NVMe</td>
-            <td>100 GB / month</td>
-            <td>DirectAdmin, LiteSpeed, PHP 8, 2 MySQL DBs</td>
-            <td>✅ Zero Ads</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <h2>Explore More Free Hosting Guides</h2>
-    <div class="silo-links">
-      <a class="silo-card" href="./free-domains.html">Free Domains &amp; Subdomains <span>EU.org, DigitalPlat, is-a.dev, Namecheap</span></a>
-      <a class="silo-card" href="./free-homepage-hosting.html">Free Homepage &amp; Static Hosting <span>Cloudflare Pages, GitHub Pages, Neocities</span></a>
-      <a class="silo-card" href="./free-cloud-vps-credits.html">Free Cloud VPS &amp; $200 Credits <span>Oracle Cloud ARM, DigitalOcean $200, Render</span></a>
-      <a class="silo-card" href="https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-wordpress-and-php-mysql-hosting.md">Full Markdown Guide on GitHub <span>Read free PHP/WordPress limits &amp; benchmarks</span></a>
-    </div>
-
-    <footer>
-      MIT License · <a href="https://github.com/free-website-domains/free-web-hosting" style="color: var(--muted);">github.com/free-website-domains/free-web-hosting</a> · <a href="./llms.txt" style="color: var(--muted);">llms.txt</a>
-    </footer>
-  </div>
+  </footer>
 </body>
 </html>
