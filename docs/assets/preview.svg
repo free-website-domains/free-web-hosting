@@ -1,107 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Free Web Hosting and Free Domains Directory 2026">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f17" />
-      <stop offset="55%" stop-color="#111827" />
-      <stop offset="100%" stop-color="#0f172a" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" />
-      <stop offset="50%" stop-color="#3b82f6" />
-      <stop offset="100%" stop-color="#6366f1" />
-    </linearGradient>
-    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1e293b" />
-      <stop offset="100%" stop-color="#0f172a" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Free Web Hosting and Free Domains Directory">
+  <!-- Poster Paper -->
+  <rect width="1280" height="640" fill="#f8f7f3" />
 
-  <!-- Background -->
-  <rect width="1280" height="640" fill="url(#bg)" />
+  <!-- Right Ultramarine Field -->
+  <rect x="816" y="0" width="464" height="640" fill="#1b3fc2" />
 
-  <!-- Subtle Grid -->
-  <g stroke="#1e293b" stroke-width="1" opacity="0.55">
-    <line x1="0" y1="80" x2="1280" y2="80" />
-    <line x1="0" y1="160" x2="1280" y2="160" />
-    <line x1="0" y1="240" x2="1280" y2="240" />
-    <line x1="0" y1="320" x2="1280" y2="320" />
-    <line x1="0" y1="400" x2="1280" y2="400" />
-    <line x1="0" y1="480" x2="1280" y2="480" />
-    <line x1="0" y1="560" x2="1280" y2="560" />
-    <line x1="160" y1="0" x2="160" y2="640" />
-    <line x1="320" y1="0" x2="320" y2="640" />
-    <line x1="480" y1="0" x2="480" y2="640" />
-    <line x1="640" y1="0" x2="640" y2="640" />
-    <line x1="800" y1="0" x2="800" y2="640" />
-    <line x1="960" y1="0" x2="960" y2="640" />
-    <line x1="1120" y1="0" x2="1120" y2="640" />
-  </g>
+  <!-- Swiss Red Wordmark Square + Brand -->
+  <rect x="64" y="56" width="40" height="40" fill="#e0351d" />
+  <text x="120" y="75" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700">Free Web</text>
+  <text x="120" y="96" fill="#3a4054" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400">Hosting</text>
 
-  <!-- Top Accent Bar -->
-  <rect x="0" y="0" width="1280" height="6" fill="url(#accent)" />
+  <!-- Main Poster Display Headline -->
+  <text x="64" y="216" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Free web hosting</text>
+  <text x="64" y="296" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">and domains</text>
 
-  <!-- Badge Pill -->
-  <rect x="64" y="48" width="440" height="36" rx="18" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
-  <circle cx="88" cy="66" r="6" fill="#10b981" />
-  <text x="106" y="71" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14" font-weight="600" letter-spacing="0.06em">2026 VERIFIED DIRECTORY • 125+ PROVIDERS</text>
+  <!-- Lead Copy -->
+  <text x="64" y="352" fill="#3a4054" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400">Compare 125+ verified free hosts, cloud credits, and domain registries.</text>
 
-  <!-- Main Heading -->
-  <text x="64" y="142" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="52" font-weight="800" letter-spacing="-0.02em">FREE WEB HOSTING</text>
-  <text x="64" y="202" fill="url(#accent)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="48" font-weight="800" letter-spacing="-0.02em">&amp; FREE DOMAINS LIST</text>
+  <!-- Hairline Table Preview -->
+  <line x1="64" y1="408" x2="752" y2="408" stroke="#dbd8cf" stroke-width="1.5" />
+  <text x="64" y="440" fill="#6b7285" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">Category</text>
+  <text x="340" y="440" fill="#6b7285" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">Benchmarks</text>
+  <text x="610" y="440" fill="#6b7285" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">Ads</text>
 
-  <!-- Subtitle -->
-  <text x="64" y="246" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="20" font-weight="400">Host free sites, static homepages, PHP/MySQL apps, Docker containers &amp; free domain names</text>
+  <line x1="64" y1="458" x2="752" y2="458" stroke="#dbd8cf" stroke-width="1" />
+  <text x="64" y="490" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600">Static &amp; Homepage</text>
+  <text x="340" y="490" fill="#3a4054" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">Cloudflare, GitHub, Neocities</text>
+  <text x="610" y="490" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">Zero ads</text>
 
-  <!-- Comparison Table Preview Card -->
-  <rect x="64" y="280" width="1152" height="296" rx="14" fill="url(#cardBg)" stroke="#334155" stroke-width="1.5" />
+  <line x1="64" y1="510" x2="752" y2="510" stroke="#dbd8cf" stroke-width="1" />
+  <text x="64" y="542" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600">PHP &amp; WordPress</text>
+  <text x="340" y="542" fill="#3a4054" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">InfinityFree, 20i, HelioHost</text>
+  <text x="610" y="542" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">Zero ads</text>
 
-  <!-- Table Header -->
-  <rect x="64" y="280" width="1152" height="46" rx="14" fill="#1e293b" />
-  <text x="92" y="309" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">CATEGORY / PROVIDER</text>
-  <text x="410" y="309" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">FREE TIER SPECS</text>
-  <text x="740" y="309" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">CUSTOM DOMAIN &amp; SSL</text>
-  <text x="1030" y="309" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700">STATUS</text>
+  <line x1="64" y1="562" x2="752" y2="562" stroke="#dbd8cf" stroke-width="1" />
+  <text x="64" y="594" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600">Free Domains (70+)</text>
+  <text x="340" y="594" fill="#3a4054" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">EU.org, DigitalPlat, is-a.dev</text>
+  <text x="610" y="594" fill="#111629" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16">Free SSL</text>
 
-  <!-- Row 1 -->
-  <line x1="80" y1="374" x2="1196" y2="374" stroke="#334155" stroke-width="1" />
-  <text x="92" y="356" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="17" font-weight="700">Cloudflare Pages / GitHub Pages</text>
-  <text x="410" y="356" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">Unlimited BW • Global Edge CDN</text>
-  <text x="740" y="356" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ Free Subdomain + SSL</text>
-  <rect x="1030" y="336" width="136" height="28" rx="6" fill="#064e3b" />
-  <text x="1048" y="355" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">100% FREE</text>
+  <!-- Right Field Content -->
+  <text x="864" y="170" fill="#f8f7f3" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="118" font-weight="700" letter-spacing="-3">125+</text>
+  <text x="864" y="214" fill="#eeece6" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400">Verified hosting providers</text>
 
-  <!-- Row 2 -->
-  <line x1="80" y1="424" x2="1196" y2="424" stroke="#334155" stroke-width="1" />
-  <text x="92" y="405" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="17" font-weight="700">InfinityFree / AwardSpace / HelioHost</text>
-  <text x="410" y="405" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">5 GB SSD • PHP 8 • MySQL • WP</text>
-  <text x="740" y="405" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ No Forced Ads + SSL</text>
-  <rect x="1030" y="385" width="136" height="28" rx="6" fill="#064e3b" />
-  <text x="1048" y="404" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">100% FREE</text>
+  <line x1="864" y1="264" x2="1216" y2="264" stroke="#f8f7f3" stroke-opacity="0.28" stroke-width="1" />
 
-  <!-- Row 3 -->
-  <line x1="80" y1="474" x2="1196" y2="474" stroke="#334155" stroke-width="1" />
-  <text x="92" y="455" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="17" font-weight="700">Oracle Cloud / Fly.io / Koyeb / HF</text>
-  <text x="410" y="455" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">Up to 4 ARM vCPU • 24 GB RAM</text>
-  <text x="740" y="455" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ Full Root SSH + IPv4</text>
-  <rect x="1030" y="435" width="136" height="28" rx="6" fill="#064e3b" />
-  <text x="1042" y="454" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">ALWAYS FREE</text>
+  <text x="864" y="380" fill="#f8f7f3" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="118" font-weight="700" letter-spacing="-3">70+</text>
+  <text x="864" y="424" fill="#eeece6" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="400">Free domain registries</text>
 
-  <!-- Row 4 -->
-  <line x1="80" y1="524" x2="1196" y2="524" stroke="#334155" stroke-width="1" />
-  <text x="92" y="505" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="17" font-weight="700">is-a.dev / js.org / EU.org / Namecheap</text>
-  <text x="410" y="505" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">70+ Free Domains &amp; Subdomains</text>
-  <text x="740" y="505" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ A / CNAME / NS Records</text>
-  <rect x="1030" y="485" width="136" height="28" rx="6" fill="#1e3a8a" />
-  <text x="1040" y="504" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">FREE DOMAIN</text>
-
-  <!-- Row 5 -->
-  <text x="92" y="555" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="17" font-weight="700">★ Bonus Cloud Credits &amp; Deals</text>
-  <text x="410" y="555" fill="#fde68a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">DigitalOcean $200 • Hostinger • Cloudways</text>
-  <text x="740" y="555" fill="#fde68a" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">✓ Free .COM + $200 Credit</text>
-  <rect x="1030" y="535" width="136" height="28" rx="6" fill="#78350f" />
-  <text x="1044" y="554" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">PROMO CREDIT</text>
-
-  <!-- Footer URL -->
-  <text x="64" y="614" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">github.com/free-website-domains/free-web-hosting</text>
-  <text x="930" y="614" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="600">★ Star on GitHub • Updated Weekly</text>
+  <rect x="864" y="512" width="232" height="56" fill="#111629" />
+  <text x="896" y="547" fill="#f8f7f3" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="500">2026 Open Directory</text>
 </svg>
