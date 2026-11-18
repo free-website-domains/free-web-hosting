@@ -9,9 +9,20 @@
   - Mark (Swiss red): `--color-mark` (`oklch(57% 0.215 29)`), `--color-mark-ink` (`oklch(97.5% 0.005 90)`)
   - Hairline: `--color-rule` (`oklch(87.5% 0.008 90)`)
 - **Geometry & Surfaces:** `border-radius: 0`, `box-shadow: none`. Sections separate by space (`--section-gap-s`, `--section-gap`), paper steps (`--color-paper-2`), or flat colour fields (`.field`, `.field--mark`). No boxed cards or section rules; 1px hairlines appear only between table rows and beneath nav/footer dividers.
-- **Routes sharing this system:**
+- **Routes sharing this system (16 pages):**
   - `docs/index.html` (`hero: Banner`)
   - `docs/free-domains.html` (`hero: Banner`)
   - `docs/free-homepage-hosting.html` (`hero: Banner`)
   - `docs/free-wordpress-php-hosting.html` (`hero: Banner`)
   - `docs/free-cloud-vps-credits.html` (`hero: Banner`)
+  - `docs/free-vs-cheap-hosting.html` (`hero: Banner`)
+  - `docs/free-nodejs-hosting.html` (`hero: Banner`)
+  - `docs/free-python-hosting.html` (`hero: Banner`)
+  - `docs/free-docker-hosting.html` (`hero: Banner`)
+  - `docs/free-database-hosting.html` (`hero: Banner`)
+  - `docs/free-student-hosting.html` (`hero: Banner`)
+  - `docs/free-ddns-providers.html` (`hero: Banner`)
+  - `docs/000webhost-alternatives.html` (`hero: Banner`)
+  - `docs/freenom-alternatives.html` (`hero: Banner`)
+  - `docs/free-ssl-cdn-hosting.html` (`hero: Banner`)
+  - `docs/free-ecommerce-hosting.html` (`hero: Banner`)

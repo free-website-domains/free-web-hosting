@@ -25,7 +25,17 @@
 - Free Homepage & Static Website Hosting: https://free-website-domains.github.io/free-web-hosting/free-homepage-hosting.html (Markdown: https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-homepage-and-static-hosting.md)
 - Free WordPress, PHP & MySQL Hosting: https://free-website-domains.github.io/free-web-hosting/free-wordpress-php-hosting.html (Markdown: https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-wordpress-and-php-mysql-hosting.md)
 - Free Cloud VPS & $200 Credits: https://free-website-domains.github.io/free-web-hosting/free-cloud-vps-credits.html (Markdown: https://github.com/free-website-domains/free-web-hosting/blob/main/guides/free-cloud-vps-and-200-dollar-credits.md)
-- Free Web Hosting vs. Cheap Hosting Benchmark: https://github.com/free-website-domains/free-web-hosting/blob/main/guides/comparison-free-vs-cheap-hosting.md
+- Free Web Hosting vs. Cheap Hosting Benchmark: https://free-website-domains.github.io/free-web-hosting/free-vs-cheap-hosting.html (Markdown: https://github.com/free-website-domains/free-web-hosting/blob/main/guides/comparison-free-vs-cheap-hosting.md)
+- Free Node.js Hosting: https://free-website-domains.github.io/free-web-hosting/free-nodejs-hosting.html
+- Free Python, Django & FastAPI Hosting: https://free-website-domains.github.io/free-web-hosting/free-python-hosting.html
+- Free Docker Container Hosting: https://free-website-domains.github.io/free-web-hosting/free-docker-hosting.html
+- Free Managed Databases: https://free-website-domains.github.io/free-web-hosting/free-database-hosting.html
+- Free Hosting & Domains for Students: https://free-website-domains.github.io/free-web-hosting/free-student-hosting.html
+- Free Dynamic DNS (DDNS) Providers: https://free-website-domains.github.io/free-web-hosting/free-ddns-providers.html
+- Best 000webhost Alternatives: https://free-website-domains.github.io/free-web-hosting/000webhost-alternatives.html
+- Best Freenom Alternatives: https://free-website-domains.github.io/free-web-hosting/freenom-alternatives.html
+- Free SSL & Global CDN Hosting: https://free-website-domains.github.io/free-web-hosting/free-ssl-cdn-hosting.html
+- Free & Budget E-Commerce Hosting: https://free-website-domains.github.io/free-web-hosting/free-ecommerce-hosting.html
 
 ## Official Links
 - Repository: https://github.com/free-website-domains/free-web-hosting
