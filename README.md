@@ -1,65 +1,62 @@
 <div align="center">
 
-# Free Web Hosting & Free Domains List (2026): Host Free Sites, Homepages & Web Apps
+# Free web hosting and free domains (2026)
 
-**The complete, community-verified directory of 125+ providers for free website hosting, free homepage hosting, cloud credits ($200+), and free site domain names — with zero forced ads, free SSL, and honest technical benchmarks.**
+Community-verified comparison of 125+ providers for free website hosting, free homepage hosting, cloud credits ($200+), and free site domain names, with no forced ads and free SSL.
 
 [![Verified Providers](https://img.shields.io/badge/Verified_Providers-125%2B_Active-10b981?style=flat-square)](https://github.com/free-website-domains/free-web-hosting)
-[![Free Domains](https://img.shields.io/badge/Free_Domains-70%2B_Registries-3b82f6?style=flat-square)](#-free-domains--free-site-domain-name-providers-70-active-registries)
-[![Cloud Credits](https://img.shields.io/badge/Free_Cloud_Credits-%24200%2B_Available-f59e0b?style=flat-square)](#-featured-free-cloud-credits-free-domain-bundles--budget-deals)
+[![Free Domains](https://img.shields.io/badge/Free_Domains-70%2B_Registries-3b82f6?style=flat-square)](#-free-domains-and-domain-name-providers)
+[![Cloud Credits](https://img.shields.io/badge/Free_Cloud_Credits-%24200%2B_Available-f59e0b?style=flat-square)](#-cloud-credits-free-domain-bundles-and-budget-deals)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/free-website-domains/free-web-hosting?style=social)](https://github.com/free-website-domains/free-web-hosting/stargazers)
 
-[**🔥 $200+ Cloud Credits & Deals**](#-featured-free-cloud-credits-free-domain-bundles--budget-deals) • [**📚 Deep-Dive Guides**](#-deep-dive-guides--category-comparisons) • [**⚡ Host Free Sites (Static/Jamstack)**](#-host-free-sites-best-free-static--homepage-hosting-platforms) • [**🐘 Free PHP, MySQL & WordPress**](#-free-website-hosting-with-php-mysql-cpanel--wordpress) • [**🐳 Free Cloud VPS & Docker**](#-free-full-stack-nodejs-python-docker--cloud-vps-hosting) • [**🌐 Free Domains (70+ List)**](#-free-domains--free-site-domain-name-providers-70-active-registries) • [**🗄️ Free Databases**](#-free-managed-databases-postgresql-mysql-mongodb-redis) • [**❓ FAQ**](#-frequently-asked-questions-faq)
+[**$200+ Cloud Credits & Deals**](#-cloud-credits-free-domain-bundles-and-budget-deals) • [**Guides & Comparisons**](#-guides-and-category-comparisons) • [**Host Free Sites (Static)**](#-host-free-sites-on-static-and-homepage-platforms) • [**Free PHP, MySQL & WordPress**](#-free-website-hosting-with-php-mysql-and-wordpress) • [**Free Cloud VPS & Docker**](#-free-full-stack-nodejs-python-docker-and-cloud-vps) • [**Free Domains (70+)**](#-free-domains-and-domain-name-providers) • [**Free Databases**](#-free-managed-databases) • [**FAQ**](#-frequently-asked-questions)
 
 </div>
 
 ---
 
-## What is This Directory?
+## Active free hosting and domain options
 
-Finding reliable **free web hosting** and a **free site domain name** without hidden renewal traps, forced pop-up advertisements, or sudden account suspensions is harder than ever. Many legacy services (like *000webhost*, *Freenom `.tk/.ml`*, *Heroku Free*, and *Glitch Containers*) have shut down or restricted their free tiers.
-
-This repository is an actively maintained open-source comparison of **free website hosting** platforms, **free homepage hosting** services, **free web hosting and domain** bundles, and **free domains** for developers, students, and creators. Whether you want to **host free sites** with HTML/CSS/React, get a dynamic **free website hosted** with PHP 8 and MySQL, run a Docker container, or register a **free site domain name**, every verified option is benchmarked below.
+Legacy free hosts such as *000webhost*, *Freenom (.tk/.ml)*, *Heroku Free*, and *Glitch Containers* have shut down or restricted their free tiers. The tables below list currently active providers for **free web hosting**, **free homepage hosting**, **free web hosting and domain** bundles, and **free site domain names**, covering HTML/CSS/React static sites, PHP 8 and MySQL, Docker containers, and Always-Free cloud VMs.
 
 ![Free Web Hosting and Free Domains Comparison Preview](docs/assets/preview.svg)
 
 ---
 
-## 🏆 Featured: Free Cloud Credits, Free Domain Bundles & Budget Deals
+## Cloud credits, free domain bundles, and budget deals
 
-> **💡 When should you use a promo credit or $2/mo host instead of 100% free shared hosting?**
-> Free shared PHP hosts have strict CPU/inode limits, block outgoing SMTP email, and cannot handle production traffic spikes. If you are launching a business site, e-commerce store, SaaS MVP, or SEO project, claiming a **$200 free cloud credit** or a **free domain + hosting bundle** gives you dedicated resources, 99.99% uptime SLA, and a real `.com` domain name.
+> Free shared PHP hosts enforce strict CPU and inode caps, block outgoing SMTP email, and throttle traffic spikes. For business sites, stores, or SEO projects, a **$200 free cloud credit** or a **free domain and hosting bundle** provides dedicated resources, higher uptime, and a standard `.com` domain.
 
 | Provider | Exclusive Offer / Free Tier | Storage & Bandwidth | Free Domain / SSL | Best Use Case | Claim Link |
 | :--- | :--- | :--- | :---: | :--- | :---: |
-| **Hostinger** | **Up to 80% OFF + Free `.com` Domain + 3 Months Free** *(~$1.99–$2.99/mo)* | 100 GB NVMe SSD • Unlimited Bandwidth • Host up to 100 websites | ✅ **Free `.com` / `.net` Domain** (1 yr) + Unlimited Free SSL | Best all-in-one **free web hosting and domain** alternative for WordPress, portfolios & business sites | [**Claim Free Domain + Deal →**](https://www.hostinger.com/) |
-| **DigitalOcean** | **$200 Free Cloud Credit** (valid for 60 days) + **3 Free Static Sites Forever** | Deploy NVMe Droplets (VPS), Managed Kubernetes, Postgres & App Platform | ✅ Free `.ondigitalocean.app` + Custom Domain SSL | Best for developers needing full root Linux VPS, Docker apps, or SaaS backends at $0 upfront | [**Get $200 Free Credit →**](https://www.digitalocean.com/) |
-| **Cloudways** | **$30 Free Hosting Credit / 3-Day Free Trial** *(No credit card required)* | Managed Cloud Servers on DigitalOcean, AWS & Google Cloud (NVMe + Redis) | ✅ Free Let's Encrypt SSL + Staging URLs + Free Migration | High-speed managed WordPress, WooCommerce, Laravel & PHP apps without sysadmin overhead | [**Start Free Cloud Trial →**](https://www.cloudways.com/) |
-| **Namecheap** | **Free `.me` Site Domain Name** (Students) + **$0.98/yr Domains** (`.xyz`, `.site`, `.online`) | Free DNS Hosting, Free Email Forwarding, Free Dynamic DNS (DDNS) | ✅ **Free WhoisGuard Privacy Forever** + PositiveSSL Deals | Best registrar to grab a **free site domain name** (via GitHub Education) or ultra-cheap first-year TLDs | [**Check Free & $0.98 Domains →**](https://www.namecheap.com/) |
+| **Hostinger** | **Up to 80% OFF + Free `.com` Domain + 3 Months Free** *(~$1.99 to $2.99/mo)* | 100 GB NVMe SSD • Unlimited Bandwidth • Host up to 100 websites | **Free `.com` / `.net` Domain** (1 yr) + Unlimited Free SSL | Best all-in-one **free web hosting and domain** alternative for WordPress, portfolios & business sites | [**Claim Free Domain + Deal**](https://www.hostinger.com/) |
+| **DigitalOcean** | **$200 Free Cloud Credit** (valid for 60 days) + **3 Free Static Sites Forever** | Deploy NVMe Droplets (VPS), Managed Kubernetes, Postgres & App Platform | Free `.ondigitalocean.app` + Custom Domain SSL | Best for developers needing full root Linux VPS, Docker apps, or SaaS backends at $0 upfront | [**Get $200 Free Credit**](https://www.digitalocean.com/) |
+| **Cloudways** | **$30 Free Hosting Credit / 3-Day Free Trial** *(No credit card required)* | Managed Cloud Servers on DigitalOcean, AWS & Google Cloud (NVMe + Redis) | Free Let's Encrypt SSL + Staging URLs + Free Migration | High-speed managed WordPress, WooCommerce, Laravel & PHP apps without sysadmin overhead | [**Start Free Cloud Trial**](https://www.cloudways.com/) |
+| **Namecheap** | **Free `.me` Site Domain Name** (Students) + **$0.98/yr Domains** (`.xyz`, `.site`, `.online`) | Free DNS Hosting, Free Email Forwarding, Free Dynamic DNS (DDNS) | **Free WhoisGuard Privacy Forever** + PositiveSSL Deals | Best registrar to grab a **free site domain name** (via GitHub Education) or ultra-cheap first-year TLDs | [**Check Free & $0.98 Domains**](https://www.namecheap.com/) |
 
 ---
 
-## ⚖️ Free Web Hosting vs. Low-Cost Production Hosting (Quick Decision Matrix)
+## Free web hosting vs. low-cost production hosting
 
-Before choosing where to get your **free website hosted**, compare how 100% free tiers stack up against subsidized cloud credits and entry-level shared hosting:
+Compare 100% free tiers against subsidized cloud credits and entry-level shared hosting:
 
 | Feature / Metric | 100% Free Static Hosting *(Cloudflare / GitHub Pages)* | 100% Free PHP/MySQL Hosting *(InfinityFree / ByetHost)* | Free Cloud VPS Credit *(DigitalOcean $200 / Oracle)* | Budget Hosting + Free Domain *(Hostinger / Namecheap)* |
 | :--- | :---: | :---: | :---: | :---: |
-| **Monthly Cost** | **$0 Forever** | **$0 Forever** | **$0** (Credit / Always-Free) | **~$1.99 – $2.99/mo** |
-| **Free Top-Level Domain (`.com`)** | ❌ Bring your own or use subdomain | ❌ Subdomain only | ❌ Bring your own | ✅ **Free `.com` / `.net` Included** |
-| **Custom Domain Support** | ✅ Yes (CNAME / A record) | ✅ Yes (NS / CNAME) | ✅ Yes (Full DNS control) | ✅ Yes (Automated) |
-| **Free HTTPS / SSL Certificate** | ✅ Automatic Edge SSL | ⚠️ Manual / Basic SSL | ✅ Let's Encrypt / Certbot | ✅ Automatic Wildcard SSL |
-| **Backend Languages (PHP/Node/Python)** | ❌ Static / Serverless Edge only | ✅ PHP 8.x + MySQL | ✅ **Any Stack (Root SSH / Docker)** | ✅ PHP, Node.js, Python, WordPress |
-| **Forced Ads on Your Website** | ✅ **Zero Ads** | ✅ **Zero Ads** (on verified list) | ✅ **Zero Ads** | ✅ **Zero Ads** |
-| **Outgoing Email (SMTP / Custom Mail)** | ❌ Not included | ❌ Blocked on free plans | ✅ Supported (upon verification) | ✅ **Up to 100 Free Business Emails** |
-| **Uptime & Performance** | ⚡ **99.99% Global CDN** | ⚠️ ~98.5% (Shared CPU limits) | ⚡ **99.99% Dedicated VM** | ⚡ **99.9% LiteSpeed + NVMe CDN** |
+| **Monthly Cost** | **$0 Forever** | **$0 Forever** | **$0** (Credit / Always-Free) | **~$1.99  to  $2.99/mo** |
+| **Free Top-Level Domain (`.com`)** | Bring your own or use subdomain | Subdomain only | Bring your own | **Free `.com` / `.net` Included** |
+| **Custom Domain Support** | Yes (CNAME / A record) | Yes (NS / CNAME) | Yes (Full DNS control) | Yes (Automated) |
+| **Free HTTPS / SSL Certificate** | Automatic Edge SSL | Manual / Basic SSL | Let's Encrypt / Certbot | Automatic Wildcard SSL |
+| **Backend Languages (PHP/Node/Python)** | Static / Serverless Edge only | PHP 8.x + MySQL | **Any Stack (Root SSH / Docker)** | PHP, Node.js, Python, WordPress |
+| **Forced Ads on Your Website** | **Zero Ads** | **Zero Ads** (on verified list) | **Zero Ads** | **Zero Ads** |
+| **Outgoing Email (SMTP / Custom Mail)** | Not included | Blocked on free plans | Supported (upon verification) | **Up to 100 Free Business Emails** |
+| **Uptime & Performance** | **99.99% Global CDN** | ~98.5% (Shared CPU limits) | **99.99% Dedicated VM** | **99.9% LiteSpeed + NVMe CDN** |
 
 ---
 
-## 📚 Deep-Dive Guides & Category Comparisons
+## Guides and category comparisons
 
-Explore our dedicated internal guides and interactive web pages for step-by-step setup instructions, DNS configuration examples, and side-by-side benchmarks:
+Dedicated Markdown guides and GitHub Pages benchmarks cover DNS setup, CLI commands, and provider limits by stack:
 
 | Topic / Search Intent | Markdown Guide (GitHub) | Interactive Web Guide (GitHub Pages) | Key Providers Covered |
 | :--- | :--- | :--- | :--- |
@@ -73,103 +70,103 @@ Explore our dedicated internal guides and interactive web pages for step-by-step
 
 ---
 
-## ⚡ Host Free Sites: Best Free Static & Homepage Hosting Platforms
+## Host free sites on static and homepage platforms
 
-If you want to **host free sites** built with HTML, CSS, JavaScript, React, Vue, Next.js, Astro, Hugo, or Jekyll, static edge platforms are the fastest, lowest-maintenance option. They provide **free homepage hosting** with global CDN caching, automatic Git deploys, custom domain support, and zero forced ads.
+Static edge platforms distribute HTML, CSS, JavaScript, React, Vue, Next.js, Astro, Hugo, and Jekyll over global CDNs with automatic Git deploys, custom domains, and zero forced ads.
 
 | Platform | Monthly Bandwidth | Free Quotas & Limits | Free Subdomain | Custom Domain, SSL & Usage |
 | :--- | :---: | :--- | :--- | :--- |
-| [**Cloudflare Pages**](https://pages.cloudflare.com/) | **Unlimited** | 25 MB/file • 20k files • 500 builds/mo | `*.pages.dev` | ✅ Auto SSL • Commercial OK |
-| [**GitHub Pages**](https://pages.github.com/) | 100 GB / mo | 1 GB repo • 10 builds/hr (Actions) | `*.github.io` | ✅ Let's Encrypt • OSS / Docs |
-| [**Vercel**](https://vercel.com/) | 100 GB / mo | 100 MB bundle • 6,000 build mins/mo | `*.vercel.app` | ✅ Auto SSL • Hobby Only |
-| [**Netlify**](https://www.netlify.com/) | 100 GB / mo | 100 GB assets • 300 build mins/mo • Forms | `*.netlify.app` | ✅ Auto SSL • Commercial OK |
-| [**Render Static Sites**](https://render.com/) | 100 GB / mo | Unlimited static files • Auto Git deploy | `*.onrender.com` | ✅ Auto SSL • Commercial OK |
-| [**DigitalOcean App Platform**](https://www.digitalocean.com/products/app-platform) | 1 GiB / site | **3 Static Sites Free** • Global CDN | `*.ondigitalocean.app` | ✅ Auto SSL • Commercial OK |
-| [**GitLab Pages**](https://docs.gitlab.com/ee/user/project/pages/) | Unlimited (Fair) | 10 GB repo • 400 CI/CD mins/mo | `*.gitlab.io` | ✅ Auto SSL • Commercial OK |
-| [**Surge.sh**](https://surge.sh/) | Fair use CDN | Unlimited static projects (`npx surge`) | `*.surge.sh` | ✅ CNAME + SSL • Commercial OK |
-| [**Neocities**](https://neocities.org/) | **200 GB / mo** | **1 GB Storage** • Browser HTML editor | `*.neocities.org` | ✅ Custom Domain • Commercial OK |
-| [**Firebase Hosting**](https://firebase.google.com/docs/hosting) | 10 GB / mo | 10 GB SSD • Google Cloud CDN | `*.web.app` | ✅ Auto SSL • Commercial OK |
-| [**Kinsta Static Hosting**](https://kinsta.com/static-site-hosting/) | 100 GB / mo | Up to 100 sites • 600 build mins/mo | `*.kinsta.page` | ✅ Auto SSL • Commercial OK |
-| [**Deno Deploy**](https://deno.com/deploy) | 100 GiB / mo | 1,000,000 edge requests/mo | `*.deno.dev` | ✅ Auto SSL • Commercial OK |
-| [**Codeberg Pages**](https://codeberg.page/) | Fair use | FOSS Git repo limit (Gitea-based) | `*.codeberg.page` | ✅ Auto SSL • FOSS Only |
-| [**SourceForge**](https://sourceforge.net/) | Unlimited FOSS | SFTP/SCP upload • PHP & static web | `*.sourceforge.io` | ✅ Custom Domain • FOSS Only |
-| [**Read the Docs**](https://readthedocs.org/) | Unlimited Docs | Sphinx / MkDocs auto-build + PDF | `*.readthedocs.io` | ✅ Custom Domain • Docs Only |
-| [**Tilda Free**](https://tilda.cc/) | Unlimited visits | 1 site • 50 pages • 50 MB visual builder | `*.tilda.ws` | ❌ Paid for custom domain |
-| [**Bubble Free**](https://bubble.io/) | Dev traffic | Visual no-code web app builder | `*.bubbleapps.io` | ❌ Dev mode only |
+| [**Cloudflare Pages**](https://pages.cloudflare.com/) | **Unlimited** | 25 MB/file • 20k files • 500 builds/mo | `*.pages.dev` | Auto SSL • Commercial OK |
+| [**GitHub Pages**](https://pages.github.com/) | 100 GB / mo | 1 GB repo • 10 builds/hr (Actions) | `*.github.io` | Let's Encrypt • OSS / Docs |
+| [**Vercel**](https://vercel.com/) | 100 GB / mo | 100 MB bundle • 6,000 build mins/mo | `*.vercel.app` | Auto SSL • Hobby Only |
+| [**Netlify**](https://www.netlify.com/) | 100 GB / mo | 100 GB assets • 300 build mins/mo • Forms | `*.netlify.app` | Auto SSL • Commercial OK |
+| [**Render Static Sites**](https://render.com/) | 100 GB / mo | Unlimited static files • Auto Git deploy | `*.onrender.com` | Auto SSL • Commercial OK |
+| [**DigitalOcean App Platform**](https://www.digitalocean.com/products/app-platform) | 1 GiB / site | **3 Static Sites Free** • Global CDN | `*.ondigitalocean.app` | Auto SSL • Commercial OK |
+| [**GitLab Pages**](https://docs.gitlab.com/ee/user/project/pages/) | Unlimited (Fair) | 10 GB repo • 400 CI/CD mins/mo | `*.gitlab.io` | Auto SSL • Commercial OK |
+| [**Surge.sh**](https://surge.sh/) | Fair use CDN | Unlimited static projects (`npx surge`) | `*.surge.sh` | CNAME + SSL • Commercial OK |
+| [**Neocities**](https://neocities.org/) | **200 GB / mo** | **1 GB Storage** • Browser HTML editor | `*.neocities.org` | Custom Domain • Commercial OK |
+| [**Firebase Hosting**](https://firebase.google.com/docs/hosting) | 10 GB / mo | 10 GB SSD • Google Cloud CDN | `*.web.app` | Auto SSL • Commercial OK |
+| [**Kinsta Static Hosting**](https://kinsta.com/static-site-hosting/) | 100 GB / mo | Up to 100 sites • 600 build mins/mo | `*.kinsta.page` | Auto SSL • Commercial OK |
+| [**Deno Deploy**](https://deno.com/deploy) | 100 GiB / mo | 1,000,000 edge requests/mo | `*.deno.dev` | Auto SSL • Commercial OK |
+| [**Codeberg Pages**](https://codeberg.page/) | Fair use | FOSS Git repo limit (Gitea-based) | `*.codeberg.page` | Auto SSL • FOSS Only |
+| [**SourceForge**](https://sourceforge.net/) | Unlimited FOSS | SFTP/SCP upload • PHP & static web | `*.sourceforge.io` | Custom Domain • FOSS Only |
+| [**Read the Docs**](https://readthedocs.org/) | Unlimited Docs | Sphinx / MkDocs auto-build + PDF | `*.readthedocs.io` | Custom Domain • Docs Only |
+| [**Tilda Free**](https://tilda.cc/) | Unlimited visits | 1 site • 50 pages • 50 MB visual builder | `*.tilda.ws` | Paid for custom domain |
+| [**Bubble Free**](https://bubble.io/) | Dev traffic | Visual no-code web app builder | `*.bubbleapps.io` | Dev mode only |
 
-### 💡 Which Static Host Should You Pick for Free Homepage Hosting?
-1. **Best Overall & Unlimited Traffic:** **Cloudflare Pages** — The only major platform with unlimited monthly bandwidth and commercial usage rights on the free plan.
-2. **Best for Open-Source & Developer Portfolios:** **GitHub Pages** — Lives directly inside your repository (`username.github.io`) and connects cleanly with free developer domains like `.is-a.dev` and `.js.org`.
-3. **Best Retro / Indie Free Homepage Hosting:** **Neocities** — Modeled on classic personal web directories, with 1 GB storage, 200 GB bandwidth, no build step required, and an in-browser HTML editor.
+### Which Static Host Should You Pick for Free Homepage Hosting?
+1. **Best Overall & Unlimited Traffic:** **Cloudflare Pages**, The only major platform with unlimited monthly bandwidth and commercial usage rights on the free plan.
+2. **Best for Open-Source & Developer Portfolios:** **GitHub Pages**, Lives directly inside your repository (`username.github.io`) and connects cleanly with free developer domains like `.is-a.dev` and `.js.org`.
+3. **Best Retro / Indie Free Homepage Hosting:** **Neocities**, Modeled on classic personal web directories, with 1 GB storage, 200 GB bandwidth, no build step required, and an in-browser HTML editor.
 
 ---
 
-## 🐘 Free Website Hosting with PHP, MySQL, cPanel & WordPress
+## Free website hosting with PHP, MySQL, and WordPress
 
-Need classic dynamic **free web hosting** with a control panel (cPanel / DirectAdmin / VistaPanel / Plesk), **PHP 8+**, **MySQL / MariaDB databases**, and a 1-click **WordPress** installer? Below are the longest-running, verified **free website hosting** providers that **do not inject forced ads** onto your pages.
+The shared hosts below support control panels (VistaPanel, DirectAdmin, Plesk), PHP 8+, MySQL or MariaDB databases, and 1-click WordPress installers without forced ads.
 
-> ⚠️ **Note on 000webhost:** *000webhost officially shut down in October 2024.* Its parent company (**Hostinger**) migrated users to its low-cost NVMe platform ([**see Hostinger's Free Domain + $1.99/mo offer above**](#-featured-free-cloud-credits-free-domain-bundles--budget-deals)), while **InfinityFree** and **AwardSpace** remain the top 100% free cPanel alternatives.
+> **Note on 000webhost:** *000webhost shut down in October 2024.* Its parent company (**Hostinger**) migrated users to its NVMe platform ([see Hostinger's free domain and $1.99/mo offer above](#-cloud-credits-free-domain-bundles-and-budget-deals)), while **InfinityFree** and **AwardSpace** remain the primary 100% free cPanel alternatives.
 
 | Provider | Disk & Bandwidth | Databases & Stack | Control Panel & Ads | Free Subdomain / Custom Domain |
 | :--- | :--- | :--- | :--- | :--- |
-| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** • Unlimited BW (50k hits/day) | PHP 8.2, MySQL (400 DBs), Softaculous (WP) | VistaPanel • ✅ **No Ads** | `*.rf.gd`, `*.42web.io` + Custom Domain |
-| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** • 5 GB / month | PHP 8.x, 1 MySQL DB, Zacky WP Installer | Custom Panel + FTP • ✅ **No Ads** | 1 Domain + 3 `.dx.am` subdomains |
-| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** • 50 GB / month | PHP 8, 5 MySQL DBs, Softaculous | VistaPanel • ✅ **No Ads** | `*.byethost.com` + 5 Addon Domains |
-| [**HelioHost**](https://heliohost.org/) | **1,000 MB** • Unlimited BW | PHP, Python, Node, Ruby, Java, MySQL, Postgres | **Plesk** • ✅ **No Ads** | `*.helioho.st` + Custom Domains + SSL |
-| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** • Unlimited BW | PHP, Python, Node, Go, Ruby, MySQL, Postgres | Custom + **SSH** • ✅ **No Ads** | `*.alwaysdata.net` + Custom + Mailbox |
-| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** • 100 GB / mo | PHP 8, 2 MySQL DBs, LiteSpeed, WordPress | DirectAdmin • ✅ **No Ads** | `*.cu.ma`, `*.c1.biz` + Custom + SSL |
-| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** • 25,000 visits / mo | PHP 8.x, 1 GB MySQL, Global CDN, 80+ apps | My20i Panel • ✅ **No Ads** | Free CDN + Custom Domain + Free SSL |
-| [**Freehostia**](https://www.freehostia.com/free-plan.html) | **250 MB** • 6 GB / month | PHP, 10 MB MySQL DB, Elefante Installer | Hepsia Panel • ✅ **No Ads** | Host up to 5 Custom Domains |
-| [**ProFreeHost**](https://profreehost.com/) | **Unlimited** (Inode cap) • Unlimited BW | PHP 8, MySQL, Softaculous, FTP | Custom cPanel • ✅ **No Ads** | `*.unaux.com`, `*.ezyro.com` + Custom |
-| [**AeonFree**](https://aeonfree.com/) | **5 GB Disk** • Unlimited BW | PHP 8, MySQL, Softaculous WP, Free SSL | VistaPanel • ✅ **No Ads** | Free Subdomain + Custom Domain |
-| [**TinkerHost**](https://tinkerhost.net/) | **5 GB Disk** • 100 GB / month | PHP, MySQL, Softaculous, Free SSL | Client + VistaPanel • ✅ **No Ads** | Free Subdomains + Custom Domains |
-| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** • Unlimited BW | PHP 8, MySQL, 1-Click WordPress | DirectAdmin • ✅ **No Ads** | `*.x10.mx`, `*.x10.bz` + Custom Domains |
-| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** • Unlimited BW | PHP, Python, Node, Go, Rust, MySQL, Postgres | DevilWEB + **SSH** • ✅ **No Ads** | `*.serv00.net` + Custom Domains |
-| [**Pantheon**](https://pantheon.io/) | Sandbox Sites • Dev/Stage Traffic | Managed **WordPress & Drupal** + Git | Pantheon + CLI • ✅ **No Ads** | `*.pantheonsite.io` |
+| [**InfinityFree**](https://infinityfree.com/) | **5 GB SSD** • Unlimited BW (50k hits/day) | PHP 8.2, MySQL (400 DBs), Softaculous (WP) | VistaPanel • **No Ads** | `*.rf.gd`, `*.42web.io` + Custom Domain |
+| [**AwardSpace**](https://www.awardspace.com/free-web-hosting/) | **1,000 MB** • 5 GB / month | PHP 8.x, 1 MySQL DB, Zacky WP Installer | Custom Panel + FTP • **No Ads** | 1 Domain + 3 `.dx.am` subdomains |
+| [**ByetHost**](https://byet.host/free-hosting) | **1,000 MB** • 50 GB / month | PHP 8, 5 MySQL DBs, Softaculous | VistaPanel • **No Ads** | `*.byethost.com` + 5 Addon Domains |
+| [**HelioHost**](https://heliohost.org/) | **1,000 MB** • Unlimited BW | PHP, Python, Node, Ruby, Java, MySQL, Postgres | **Plesk** • **No Ads** | `*.helioho.st` + Custom Domains + SSL |
+| [**Alwaysdata**](https://www.alwaysdata.com/en/) | **100 MB** • Unlimited BW | PHP, Python, Node, Go, Ruby, MySQL, Postgres | Custom + **SSH** • **No Ads** | `*.alwaysdata.net` + Custom + Mailbox |
+| [**GoogieHost**](https://googiehost.com/) | **1,000 MB NVMe** • 100 GB / mo | PHP 8, 2 MySQL DBs, LiteSpeed, WordPress | DirectAdmin • **No Ads** | `*.cu.ma`, `*.c1.biz` + Custom + SSL |
+| [**20i Free Hosting**](https://www.20i.com/free-hosting) | **10 GB SSD** • 25,000 visits / mo | PHP 8.x, 1 GB MySQL, Global CDN, 80+ apps | My20i Panel • **No Ads** | Free CDN + Custom Domain + Free SSL |
+| [**Freehostia**](https://www.freehostia.com/free-plan.html) | **250 MB** • 6 GB / month | PHP, 10 MB MySQL DB, Elefante Installer | Hepsia Panel • **No Ads** | Host up to 5 Custom Domains |
+| [**ProFreeHost**](https://profreehost.com/) | **Unlimited** (Inode cap) • Unlimited BW | PHP 8, MySQL, Softaculous, FTP | Custom cPanel • **No Ads** | `*.unaux.com`, `*.ezyro.com` + Custom |
+| [**AeonFree**](https://aeonfree.com/) | **5 GB Disk** • Unlimited BW | PHP 8, MySQL, Softaculous WP, Free SSL | VistaPanel • **No Ads** | Free Subdomain + Custom Domain |
+| [**TinkerHost**](https://tinkerhost.net/) | **5 GB Disk** • 100 GB / month | PHP, MySQL, Softaculous, Free SSL | Client + VistaPanel • **No Ads** | Free Subdomains + Custom Domains |
+| [**x10Hosting**](https://x10hosting.com/) | **500 MB SSD** • Unlimited BW | PHP 8, MySQL, 1-Click WordPress | DirectAdmin • **No Ads** | `*.x10.mx`, `*.x10.bz` + Custom Domains |
+| [**Serv00**](https://www.serv00.com/) | **3 GB SSD** • Unlimited BW | PHP, Python, Node, Go, Rust, MySQL, Postgres | DevilWEB + **SSH** • **No Ads** | `*.serv00.net` + Custom Domains |
+| [**Pantheon**](https://pantheon.io/) | Sandbox Sites • Dev/Stage Traffic | Managed **WordPress & Drupal** + Git | Pantheon + CLI • **No Ads** | `*.pantheonsite.io` |
 
 ---
 
-## 🐳 Free Full-Stack, Node.js, Python, Docker & Cloud VPS Hosting
+## Free full-stack Node.js, Python, Docker, and cloud VPS
 
-Want to get a **free website hosted** that runs a persistent backend server (Node.js, Express, FastAPI, Django, Flask, Go, Rust, or Docker containers) or a full Linux Virtual Private Server (VPS)? Compare the best **Always-Free Cloud Tiers** and PaaS platforms below:
+Always-Free cloud tiers and PaaS platforms run persistent backend servers (Node.js, Express, FastAPI, Django, Flask, Go, Rust, or Docker) and full Linux virtual private servers:
 
 | Cloud / PaaS Provider | Free Tier Compute Specs | Storage & Memory | Sleep / Spin-Down Policy | Supported Runtimes | Credit Card Verification? |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| [**Oracle Cloud Free Tier**](https://www.oracle.com/cloud/free/) | **Up to 4 ARM Ampere A1 Cores** + 2 AMD Micro VMs | **24 GB RAM** • **200 GB Block SSD** • 10 TB Egress/mo | **Never sleeps (24/7 VPS)** | Full Ubuntu / Debian / Rocky Linux Root SSH | ⚠️ Yes ($0 verification) |
-| [**DigitalOcean ($200 Credit)**](https://www.digitalocean.com/) | **Up to $200 in Droplets, K8s & DBs** (60 days) + 3 Static Apps | Configurable NVMe SSD & RAM | **Never sleeps (24/7 VPS)** | Any Linux OS, Docker, Node, Python, One-Click Apps | ⚠️ Yes (Promo activation) |
-| [**Google Cloud (GCP) Free Tier**](https://cloud.google.com/free) | **1x `e2-micro` VM** (US regions) + **Cloud Run** (2M req/mo) | 1 GB RAM • 30 GB Standard Persistent Disk | VM runs 24/7 • Cloud Run scales to zero | Full Linux VM + Serverless Docker Containers | ⚠️ Yes ($0 verification) |
-| [**AWS Free Tier**](https://aws.amazon.com/free/) | **750 hrs/mo EC2 `t2.micro`/`t3.micro`** (12 mos) + **Lambda** (1M req/mo forever) | 1 GB RAM • 30 GB EBS SSD • 5 GB S3 | EC2 runs 24/7 for 12 months | Linux/Windows EC2, Docker, Serverless | ⚠️ Yes ($0 verification) |
-| [**Hugging Face Spaces**](https://huggingface.co/spaces) | **2 vCPU** (Unlimited public spaces) | **16 GB RAM** • 50 GB Ephemeral Disk | Sleeps after 48h inactivity (wakes on visit) | **Docker**, Python (FastAPI/Gradio/Streamlit), Node.js, Static | ✅ **No CC Required** |
-| [**Render Web Services**](https://render.com/) | 0.1 CPU shared instance | 512 MB RAM • 100 GB Bandwidth | Spins down after 15 mins idle (wakes in ~30s) | **Docker**, Node.js, Python, Go, Ruby, Rust, Elixir | ✅ **No CC Required** |
-| [**Koyeb**](https://www.koyeb.com/) | 1 Free Web Service (`0.1 vCPU`) | 512 MB RAM • 2,000 MB Disk | Eco instance sleep on idle | **Docker**, Node.js, Python, Go, Rust, Git-push deploy | ✅ **No CC Required** |
-| [**PythonAnywhere**](https://www.pythonanywhere.com/) | 1 Python Web App + Scheduled Tasks | 512 MB Disk • CPU seconds quota | **Never sleeps** (renew every 3 months with 1 click) | **Python** (Django, Flask, FastAPI, Bottle) + MySQL | ✅ **No CC Required** |
-| [**Cloudflare Workers**](https://workers.cloudflare.com/) | **100,000 requests / day** | 128 MB Memory per isolate • Workers KV & D1 SQLite | **0ms cold start** (Global Edge) | JavaScript, TypeScript, Rust/Wasm, Python (Beta) | ✅ **No CC Required** |
-| [**Supabase Edge Functions**](https://supabase.com/edge-functions) | **500,000 invocations / month** | Deno-based TypeScript Edge | Instant wake | TypeScript / Deno + Postgres backend | ✅ **No CC Required** |
-| [**Vercel Serverless Functions**](https://vercel.com/docs/functions) | **100,000 invocations / month** | 1024 MB Memory • 10s–60s execution | Scales to zero | Node.js, Python, Go, Ruby, Edge Middleware | ✅ **No CC Required** |
+| [**Oracle Cloud Free Tier**](https://www.oracle.com/cloud/free/) | **Up to 4 ARM Ampere A1 Cores** + 2 AMD Micro VMs | **24 GB RAM** • **200 GB Block SSD** • 10 TB Egress/mo | **Never sleeps (24/7 VPS)** | Full Ubuntu / Debian / Rocky Linux Root SSH | Yes ($0 verification) |
+| [**DigitalOcean ($200 Credit)**](https://www.digitalocean.com/) | **Up to $200 in Droplets, K8s & DBs** (60 days) + 3 Static Apps | Configurable NVMe SSD & RAM | **Never sleeps (24/7 VPS)** | Any Linux OS, Docker, Node, Python, One-Click Apps | Yes (Promo activation) |
+| [**Google Cloud (GCP) Free Tier**](https://cloud.google.com/free) | **1x `e2-micro` VM** (US regions) + **Cloud Run** (2M req/mo) | 1 GB RAM • 30 GB Standard Persistent Disk | VM runs 24/7 • Cloud Run scales to zero | Full Linux VM + Serverless Docker Containers | Yes ($0 verification) |
+| [**AWS Free Tier**](https://aws.amazon.com/free/) | **750 hrs/mo EC2 `t2.micro`/`t3.micro`** (12 mos) + **Lambda** (1M req/mo forever) | 1 GB RAM • 30 GB EBS SSD • 5 GB S3 | EC2 runs 24/7 for 12 months | Linux/Windows EC2, Docker, Serverless | Yes ($0 verification) |
+| [**Hugging Face Spaces**](https://huggingface.co/spaces) | **2 vCPU** (Unlimited public spaces) | **16 GB RAM** • 50 GB Ephemeral Disk | Sleeps after 48h inactivity (wakes on visit) | **Docker**, Python (FastAPI/Gradio/Streamlit), Node.js, Static | **No CC Required** |
+| [**Render Web Services**](https://render.com/) | 0.1 CPU shared instance | 512 MB RAM • 100 GB Bandwidth | Spins down after 15 mins idle (wakes in ~30s) | **Docker**, Node.js, Python, Go, Ruby, Rust, Elixir | **No CC Required** |
+| [**Koyeb**](https://www.koyeb.com/) | 1 Free Web Service (`0.1 vCPU`) | 512 MB RAM • 2,000 MB Disk | Eco instance sleep on idle | **Docker**, Node.js, Python, Go, Rust, Git-push deploy | **No CC Required** |
+| [**PythonAnywhere**](https://www.pythonanywhere.com/) | 1 Python Web App + Scheduled Tasks | 512 MB Disk • CPU seconds quota | **Never sleeps** (renew every 3 months with 1 click) | **Python** (Django, Flask, FastAPI, Bottle) + MySQL | **No CC Required** |
+| [**Cloudflare Workers**](https://workers.cloudflare.com/) | **100,000 requests / day** | 128 MB Memory per isolate • Workers KV & D1 SQLite | **0ms cold start** (Global Edge) | JavaScript, TypeScript, Rust/Wasm, Python (Beta) | **No CC Required** |
+| [**Supabase Edge Functions**](https://supabase.com/edge-functions) | **500,000 invocations / month** | Deno-based TypeScript Edge | Instant wake | TypeScript / Deno + Postgres backend | **No CC Required** |
+| [**Vercel Serverless Functions**](https://vercel.com/docs/functions) | **100,000 invocations / month** | 1024 MB Memory • 10s to 60s execution | Scales to zero | Node.js, Python, Go, Ruby, Edge Middleware | **No CC Required** |
 
 ---
 
-## 🌐 Free Domains & Free Site Domain Name Providers (70+ Active Registries)
+## Free domains and domain name providers
 
-Looking for **free domains** or a **free site domain name** to connect to your GitHub Pages, Cloudflare Pages, Vercel, or VPS? Because Freenom (`.tk`, `.ml`, `.ga`, `.cf`, `.gq`) shut down its registry operations, the community has built reliable alternatives across **three categories**:
+Since Freenom (`.tk`, `.ml`, `.ga`, `.cf`, `.gq`) stopped issuing domains, active **free domain** options fall into three groups:
 
-1. **Free Top-Level / Public Suffix Domains & Student Packs** (Full DNS / Cloudflare NS support)
-2. **Developer & GitOps Free Subdomains** (Claim via GitHub Pull Request or Dashboard — permanent & ad-free)
-3. **Free Dynamic DNS (DDNS) Domains** (Ideal for self-hosting, home labs, and VPS IPs)
+1. **Free top-level, public suffix, and student domains** (full DNS or Cloudflare NS support)
+2. **Developer and GitOps subdomains** (claimed via GitHub Pull Request or dashboard, permanent and ad-free)
+3. **Free Dynamic DNS (DDNS) domains** (for self-hosting, home servers, and dynamic VPS IPs)
 
 ### 1. Free Top-Level Domains, Public Suffixes & Student Domain Bundles
 
 | Domain Registry / Program | Available Extensions (TLDs / SLDs) | DNS Records Supported | Cloudflare Proxy / Full NS? | Requirements | Official Link |
 | :--- | :--- | :--- | :---: | :--- | :---: |
-| **Namecheap Education (`nc.me`)** | **`.me`** *(+ discounts on `.tech`, `.live`, `.studio`)* | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | ✅ **Yes (Full TLD)** | Verified Student Email / GitHub Student Pack (Free 1 yr + Free SSL) | [nc.me](https://nc.me/) |
-| **Name.com Student Partner** | **`.live`, `.studio`, `.software`, `.games`, `.app`, `.dev`** | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | ✅ **Yes (Full TLD)** | GitHub Student Developer Pack member | [name.com/partner/github-students](https://www.name.com/partner/github-students) |
-| **EU.org Free Domain Registry** | `.eu.org` *(also country prefixes like `.de.eu.org`, `.nl.eu.org`)* | Full `NS` Delegation | ✅ Yes (In Mozilla PSL, works on Cloudflare) | Free account + pre-configured nameservers (active since 1996) | [nic.eu.org](https://nic.eu.org/) |
-| **DigitalPlat FreeDomain** | **`.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` | ✅ **Yes (Supports Cloudflare NS)** | Free registration via DigitalPlat dashboard | [domain.digitalplat.org](https://domain.digitalplat.org/) |
-| **Public Free Suffix** | **`is-a.si`, `pfsdns.org`, `nastu.net`, `tun.re`, `no.kg`, `so.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` + REST API & MCP | ✅ **Yes** | Free developer/creator registration (nonprofit) | [publicfreesuffix.org](https://publicfreesuffix.org/) |
-| **PP.UA Registry** | **`.pp.ua`** *(Private Person Ukraine)* | Full `NS` Delegation | ✅ **Yes (In Mozilla PSL)** | Free registration via partner registrars + phone/Telegram activation | [pp.ua](https://pp.ua/) |
-| **PublicZone.org** | **`.nyc.mn`, `.cn.st`** | Full DNS + Mozilla PSL support | ✅ **Yes (In Mozilla PSL)** | Developers with a GitHub repo (100+ stars) or charitable donation | [PublicZone.org](https://PublicZone.org/) |
-| **GNAME `.eu.cc` Program** | **`.eu.cc`** | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS` | ✅ **Yes** | Free program for developers, students, and startups | [gname.com/tld-eu-cc.html](https://www.gname.com/tld-eu-cc.html) |
-| **NGO.us Registry** | **`.ngo.us`** | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS` | ✅ **Yes** | Exclusively for nonprofits, NGOs, and open initiatives | [nic.ngo.us](https://nic.ngo.us/) |
+| **Namecheap Education (`nc.me`)** | **`.me`** *(+ discounts on `.tech`, `.live`, `.studio`)* | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | **Yes (Full TLD)** | Verified Student Email / GitHub Student Pack (Free 1 yr + Free SSL) | [nc.me](https://nc.me/) |
+| **Name.com Student Partner** | **`.live`, `.studio`, `.software`, `.games`, `.app`, `.dev`** | Full DNS (`A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS`) | **Yes (Full TLD)** | GitHub Student Developer Pack member | [name.com/partner/github-students](https://www.name.com/partner/github-students) |
+| **EU.org Free Domain Registry** | `.eu.org` *(also country prefixes like `.de.eu.org`, `.nl.eu.org`)* | Full `NS` Delegation | Yes (In Mozilla PSL, works on Cloudflare) | Free account + pre-configured nameservers (active since 1996) | [nic.eu.org](https://nic.eu.org/) |
+| **DigitalPlat FreeDomain** | **`.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` | **Yes (Supports Cloudflare NS)** | Free registration via DigitalPlat dashboard | [domain.digitalplat.org](https://domain.digitalplat.org/) |
+| **Public Free Suffix** | **`is-a.si`, `pfsdns.org`, `nastu.net`, `tun.re`, `no.kg`, `so.kg`** | `NS`, `A`, `AAAA`, `CNAME`, `TXT` + REST API & MCP | **Yes** | Free developer/creator registration (nonprofit) | [publicfreesuffix.org](https://publicfreesuffix.org/) |
+| **PP.UA Registry** | **`.pp.ua`** *(Private Person Ukraine)* | Full `NS` Delegation | **Yes (In Mozilla PSL)** | Free registration via partner registrars + phone/Telegram activation | [pp.ua](https://pp.ua/) |
+| **PublicZone.org** | **`.nyc.mn`, `.cn.st`** | Full DNS + Mozilla PSL support | **Yes (In Mozilla PSL)** | Developers with a GitHub repo (100+ stars) or charitable donation | [PublicZone.org](https://PublicZone.org/) |
+| **GNAME `.eu.cc` Program** | **`.eu.cc`** | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS` | **Yes** | Free program for developers, students, and startups | [gname.com/tld-eu-cc.html](https://www.gname.com/tld-eu-cc.html) |
+| **NGO.us Registry** | **`.ngo.us`** | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `NS` | **Yes** | Exclusively for nonprofits, NGOs, and open initiatives | [nic.ngo.us](https://nic.ngo.us/) |
 
 ---
 
@@ -179,43 +176,43 @@ These community-backed registries let you claim a clean, memorable **free site d
 
 | Free Domain Service | Extensions Offered | DNS Records | Registration Method | GitHub Repository | Status |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| [**is-a.dev**](https://www.is-a.dev/) | `*.is-a.dev` | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `URL` | GitHub PR (JSON) | [is-a-dev/register](https://github.com/is-a-dev/register) | ✅ Active |
-| [**js.org**](https://js.org/) | `*.js.org` | `CNAME` (GitHub Pages, Vercel, Netlify, etc.) | GitHub PR (`cnames_active.js`) | [js-org/js.org](https://github.com/js-org/js.org) | ✅ Active |
-| [**Open Domains**](https://open-domains.net/) | `*.is-cool.dev`, `*.is-a-fullstack.dev`, `*.is-local.org`, `*.is-not-a.dev`, `*.localplayer.dev` | `A`, `AAAA`, `CNAME`, `TXT`, `NS` | GitHub PR | [open-domains/register](https://github.com/open-domains/register) | ✅ Active |
-| [**thedev.id**](https://thedev.id/) | `*.thedev.id` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ Active |
-| [**thedev.me**](https://thedev.me/) | `*.thedev.me` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [thedev-me/register](https://github.com/thedev-me/register) | ✅ Active |
-| [**is-a-good.dev**](https://is-a-good.dev/) | `*.is-a-good.dev` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | ✅ Active |
-| [**Is-Cool-Me**](https://is-pro.dev/) | `*.is-pro.dev`, `*.is-into.tech` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-cool-me/register](https://github.com/is-cool-me/register) | ✅ Active |
-| [**is-a.software**](https://is-a.software/) | `*.is-a.software` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software) | ✅ Active |
-| [**is-a.bot**](https://www.is-a.bot/) | `*.is-a.bot` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot) | ✅ Active |
-| [**cli.rs**](https://cli.rs/) | `*.cli.rs` *(for Rust CLI projects)* | `CNAME` | GitHub PR | [zackify/cli.rs](https://github.com/zackify/cli.rs) | ✅ Active |
-| [**is-cod.in**](https://is-cod.in/) | `*.is-cod.in` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-cod-in/register](https://github.com/is-cod-in/register) | ✅ Active |
-| [**is-not.cool**](https://is-not.cool/) | `*.is-not.cool` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-not-cool/registration](https://github.com/is-not-cool/registration) | ✅ Active |
-| [**vexr.dev**](https://vexr.dev/) | `*.vexr.dev`, `*.is-local.host` | Custom DNS + Cloudflare Proxy | GitHub PR / Web | [nerkoux/vexr.dev](https://github.com/nerkoux/vexr.dev) | ✅ Active |
-| [**DNSHE Official**](https://www.dnshe.com/) | `*.us.ci`, `*.cc.cd`, `*.de5.net`, `*.ccwu.cc` | Anycast DNS + REST API | Web Dashboard + PR | [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) | ✅ Active |
-| [**Stackryze Domains**](https://domain.stackryze.com/) | `*.indevs.in`, `*.sryze.cc`, `*.ryzedns.org`, `*.nx.kg` | `A`, `AAAA`, `CNAME`, `TXT`, `NS` | Web Dashboard + PR | [stackryze/FreeDomains](https://github.com/stackryze/FreeDomains) | ✅ Active |
-| [**Open Host UK**](https://registry.openhost.uk/) | `*.prvcy.page`, `*.16-b.it`, `*.32-b.it`, `*.64-b.it`, `*.pride.moe`, `*.pride.ngo` | Full DNS Panel | Web Registry | — | ✅ Active |
-| [**foo.ng**](https://foo.ng/) | `*.foo.ng` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) | ✅ Active |
-| [**rweb.site**](https://rweb.site/) | `*.rweb.site` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [katorlys/rweb.site](https://github.com/katorlys/rweb.site) | ✅ Active |
-| [**js.cool**](https://js.cool/) | `*.js.cool` *(supports GitHub Pages & Vercel)* | `A`, `CNAME` | GitHub PR | [willin/domain](https://github.com/willin/domain) | ✅ Active |
-| [**part-of.my.id**](https://part-of.my.id/) | `*.part-of.my.id` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [partofmyid/register](https://github.com/partofmyid/register) | ✅ Active |
-| [**ill.my.id**](https://ill.my.id/) | `*.ill.my.id` | `A`, `CNAME`, `TXT` | GitHub PR | [w3teal/ill.my.id](https://github.com/w3teal/ill.my.id) | ✅ Active |
-| [**devs.surf**](https://devs.surf/) | `*.devs.surf` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [ByteLogicLabs/Free-Domains](https://github.com/ByteLogicLabs/Free-Domains) | ✅ Active |
-| [**getxyz.de**](https://getxyz.de/) | `*.getxyz.de` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [blackredit/register](https://github.com/blackredit/register) | ✅ Active |
-| [**moe.page**](https://moe.page/) | `*.moe.page` | Automated DNS distribution | GitHub PR | [zknmoe/moe.page-subdomains](https://github.com/zknmoe/moe.page-subdomains) | ✅ Active |
-| [**iths.online**](https://iths.online/) | `*.iths.online` *(for students & portfolios)* | `A`, `CNAME`, `TXT` | GitHub PR | [harinandsindukumar/free.iths.online](https://github.com/harinandsindukumar/free.iths.online) | ✅ Active |
-| [**int.yt**](https://int.yt/) | `*.int.yt` | Short permanent subdomains | GitHub PR | [intentfreedomain/FreeDomain](https://github.com/intentfreedomain/FreeDomain) | ✅ Active |
-| [**isroot.in**](https://isroot.in/) | `*.isroot.in` | `A`, `CNAME`, `TXT` | GitHub PR | [nevercode-in/FreeDomains](https://github.com/nevercode-in/FreeDomains) | ✅ Active |
-| [**id.thatako.net**](https://id.thatako.net/) | `*.id.thatako.net` | `A`, `CNAME`, `TXT` | GitHub PR | [aitji/id.thatako.net](https://github.com/aitji/id.thatako.net) | ✅ Active |
-| [**fluxcast.dev**](https://sub.fluxcast.dev/) | `*.fluxcast.dev` | GitOps DNS | GitHub PR | [IlyaP358/fluxcast-domains](https://github.com/IlyaP358/fluxcast-domains) | ✅ Active |
-| [**creepers.sbs**](https://creepers.sbs/) | `*.creepers.sbs`, `*.creepers.cloud` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [creepersbs/register](https://github.com/creepersbs/register) | ✅ Active |
-| [**AgentDomains**](https://agentdomains.co/) | `*.agentdomains.co`, `*.makes.fyi` | `A`, `CNAME`, `TXT` | GitHub PR | [tashfeenahmed/AgentDomains](https://github.com/tashfeenahmed/AgentDomains) | ✅ Active |
-| [**NameForge**](https://nameforge.rf.gd/) | Multiple community SLDs | `A`, `CNAME`, `TXT` | GitHub PR | [NameForge-Free-Domain/register](https://github.com/NameForge-Free-Domain/register) | ✅ Active |
-| [**env.pm**](https://env.pm/) | `*.env.pm`, `*.jsx.pm` | `A`, `CNAME`, `TXT` | Web Form | — | ✅ Active |
-| [**iz.rs**](https://iz.rs/registracija_domena) | `*.iz.rs` | `A`, `CNAME`, `NS` | Web Form | — | ✅ Active |
-| [**is-a.stupid.cat**](https://is-a.stupid.cat/) | `*.is-a.stupid.cat` | `A`, `CNAME`, `TXT` | GitHub PR | [is-a-stupid-cat/register](https://github.com/is-a-stupid-cat/register) | ✅ Active |
-| [**4k.pics**](https://4k.pics/) | `*.4k.pics` | `A`, `CNAME` | Web Dashboard | — | ✅ Active |
-| [**mit-license.org**](https://mit-license.org/) | `*.mit-license.org` *(Hosted MIT License)* | Hosted license card | GitHub PR | [remy/mit-license](https://github.com/remy/mit-license) | ✅ Active |
+| [**is-a.dev**](https://www.is-a.dev/) | `*.is-a.dev` | `A`, `AAAA`, `CNAME`, `MX`, `TXT`, `URL` | GitHub PR (JSON) | [is-a-dev/register](https://github.com/is-a-dev/register) | Active |
+| [**js.org**](https://js.org/) | `*.js.org` | `CNAME` (GitHub Pages, Vercel, Netlify, etc.) | GitHub PR (`cnames_active.js`) | [js-org/js.org](https://github.com/js-org/js.org) | Active |
+| [**Open Domains**](https://open-domains.net/) | `*.is-cool.dev`, `*.is-a-fullstack.dev`, `*.is-local.org`, `*.is-not-a.dev`, `*.localplayer.dev` | `A`, `AAAA`, `CNAME`, `TXT`, `NS` | GitHub PR | [open-domains/register](https://github.com/open-domains/register) | Active |
+| [**thedev.id**](https://thedev.id/) | `*.thedev.id` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | Active |
+| [**thedev.me**](https://thedev.me/) | `*.thedev.me` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [thedev-me/register](https://github.com/thedev-me/register) | Active |
+| [**is-a-good.dev**](https://is-a-good.dev/) | `*.is-a-good.dev` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | Active |
+| [**Is-Cool-Me**](https://is-pro.dev/) | `*.is-pro.dev`, `*.is-into.tech` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-cool-me/register](https://github.com/is-cool-me/register) | Active |
+| [**is-a.software**](https://is-a.software/) | `*.is-a.software` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software) | Active |
+| [**is-a.bot**](https://www.is-a.bot/) | `*.is-a.bot` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot) | Active |
+| [**cli.rs**](https://cli.rs/) | `*.cli.rs` *(for Rust CLI projects)* | `CNAME` | GitHub PR | [zackify/cli.rs](https://github.com/zackify/cli.rs) | Active |
+| [**is-cod.in**](https://is-cod.in/) | `*.is-cod.in` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-cod-in/register](https://github.com/is-cod-in/register) | Active |
+| [**is-not.cool**](https://is-not.cool/) | `*.is-not.cool` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [is-not-cool/registration](https://github.com/is-not-cool/registration) | Active |
+| [**vexr.dev**](https://vexr.dev/) | `*.vexr.dev`, `*.is-local.host` | Custom DNS + Cloudflare Proxy | GitHub PR / Web | [nerkoux/vexr.dev](https://github.com/nerkoux/vexr.dev) | Active |
+| [**DNSHE Official**](https://www.dnshe.com/) | `*.us.ci`, `*.cc.cd`, `*.de5.net`, `*.ccwu.cc` | Anycast DNS + REST API | Web Dashboard + PR | [dnshe/DNSHE-FreeDomains](https://github.com/dnshe/DNSHE-FreeDomains) | Active |
+| [**Stackryze Domains**](https://domain.stackryze.com/) | `*.indevs.in`, `*.sryze.cc`, `*.ryzedns.org`, `*.nx.kg` | `A`, `AAAA`, `CNAME`, `TXT`, `NS` | Web Dashboard + PR | [stackryze/FreeDomains](https://github.com/stackryze/FreeDomains) | Active |
+| [**Open Host UK**](https://registry.openhost.uk/) | `*.prvcy.page`, `*.16-b.it`, `*.32-b.it`, `*.64-b.it`, `*.pride.moe`, `*.pride.ngo` | Full DNS Panel | Web Registry | None | Active |
+| [**foo.ng**](https://foo.ng/) | `*.foo.ng` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) | Active |
+| [**rweb.site**](https://rweb.site/) | `*.rweb.site` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [katorlys/rweb.site](https://github.com/katorlys/rweb.site) | Active |
+| [**js.cool**](https://js.cool/) | `*.js.cool` *(supports GitHub Pages & Vercel)* | `A`, `CNAME` | GitHub PR | [willin/domain](https://github.com/willin/domain) | Active |
+| [**part-of.my.id**](https://part-of.my.id/) | `*.part-of.my.id` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [partofmyid/register](https://github.com/partofmyid/register) | Active |
+| [**ill.my.id**](https://ill.my.id/) | `*.ill.my.id` | `A`, `CNAME`, `TXT` | GitHub PR | [w3teal/ill.my.id](https://github.com/w3teal/ill.my.id) | Active |
+| [**devs.surf**](https://devs.surf/) | `*.devs.surf` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [ByteLogicLabs/Free-Domains](https://github.com/ByteLogicLabs/Free-Domains) | Active |
+| [**getxyz.de**](https://getxyz.de/) | `*.getxyz.de` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [blackredit/register](https://github.com/blackredit/register) | Active |
+| [**moe.page**](https://moe.page/) | `*.moe.page` | Automated DNS distribution | GitHub PR | [zknmoe/moe.page-subdomains](https://github.com/zknmoe/moe.page-subdomains) | Active |
+| [**iths.online**](https://iths.online/) | `*.iths.online` *(for students & portfolios)* | `A`, `CNAME`, `TXT` | GitHub PR | [harinandsindukumar/free.iths.online](https://github.com/harinandsindukumar/free.iths.online) | Active |
+| [**int.yt**](https://int.yt/) | `*.int.yt` | Short permanent subdomains | GitHub PR | [intentfreedomain/FreeDomain](https://github.com/intentfreedomain/FreeDomain) | Active |
+| [**isroot.in**](https://isroot.in/) | `*.isroot.in` | `A`, `CNAME`, `TXT` | GitHub PR | [nevercode-in/FreeDomains](https://github.com/nevercode-in/FreeDomains) | Active |
+| [**id.thatako.net**](https://id.thatako.net/) | `*.id.thatako.net` | `A`, `CNAME`, `TXT` | GitHub PR | [aitji/id.thatako.net](https://github.com/aitji/id.thatako.net) | Active |
+| [**fluxcast.dev**](https://sub.fluxcast.dev/) | `*.fluxcast.dev` | GitOps DNS | GitHub PR | [IlyaP358/fluxcast-domains](https://github.com/IlyaP358/fluxcast-domains) | Active |
+| [**creepers.sbs**](https://creepers.sbs/) | `*.creepers.sbs`, `*.creepers.cloud` | `A`, `AAAA`, `CNAME`, `TXT` | GitHub PR | [creepersbs/register](https://github.com/creepersbs/register) | Active |
+| [**AgentDomains**](https://agentdomains.co/) | `*.agentdomains.co`, `*.makes.fyi` | `A`, `CNAME`, `TXT` | GitHub PR | [tashfeenahmed/AgentDomains](https://github.com/tashfeenahmed/AgentDomains) | Active |
+| [**NameForge**](https://nameforge.rf.gd/) | Multiple community SLDs | `A`, `CNAME`, `TXT` | GitHub PR | [NameForge-Free-Domain/register](https://github.com/NameForge-Free-Domain/register) | Active |
+| [**env.pm**](https://env.pm/) | `*.env.pm`, `*.jsx.pm` | `A`, `CNAME`, `TXT` | Web Form | None | Active |
+| [**iz.rs**](https://iz.rs/registracija_domena) | `*.iz.rs` | `A`, `CNAME`, `NS` | Web Form | None | Active |
+| [**is-a.stupid.cat**](https://is-a.stupid.cat/) | `*.is-a.stupid.cat` | `A`, `CNAME`, `TXT` | GitHub PR | [is-a-stupid-cat/register](https://github.com/is-a-stupid-cat/register) | Active |
+| [**4k.pics**](https://4k.pics/) | `*.4k.pics` | `A`, `CNAME` | Web Dashboard | None | Active |
+| [**mit-license.org**](https://mit-license.org/) | `*.mit-license.org` *(Hosted MIT License)* | Hosted license card | GitHub PR | [remy/mit-license](https://github.com/remy/mit-license) | Active |
 
 ---
 
@@ -225,20 +222,20 @@ Hosting a website or personal cloud on a home server, Raspberry Pi, or dynamic I
 
 | DDNS Provider | Free Domains Included | Max Free Hostnames | Expiration / Renewal Policy | IPv6 & Wildcard Support | API / ACME Let's Encrypt DNS-01 |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| [**DuckDNS**](https://www.duckdns.org/) | `*.duckdns.org` | **5 subdomains** | **Never expires** (100% free forever) | ✅ IPv4 + IPv6 + TXT | ✅ Full HTTP Token API (Certbot ready) |
-| [**deSEC.io**](https://desec.io/) | `*.dedyn.io` (+ Bring Your Own Domain) | **Up to 15 domains** | **Never expires** (Managed DNSSEC) | ✅ IPv4 + IPv6 + Wildcard | ✅ REST API + ACME DNS-01 Hook |
-| [**FreeDNS (Afraid.org)**](https://freedns.afraid.org/) | **`*.mooo.com`, `*.crabdance.com` + 23,000+ shared domains** | **5 subdomains** | Active account (login once every 6–12 mos) | ✅ IPv4 + IPv6 + `A/CNAME/MX/TXT` | ✅ Direct URL Update Key |
-| [**Dynu**](https://www.dynu.com/) | `*.dynu.net`, `*.ddnsfree.com`, `*.mywire.org` (12+ domains) | **4 subdomains** | **Never expires** (no 30-day click required) | ✅ IPv4 + IPv6 + Wildcard | ✅ DynDNS2 Protocol + REST API |
-| [**dynv6**](https://dynv6.com/) | `*.dynv6.net`, `*.dns.army`, `*.dns.navy` | **Unlimited zones** | **Never expires** | ✅ First-class IPv6 prefix + IPv4 | ✅ REST & SSH API + ACME DNS-01 |
-| [**FreeMyIP**](https://freemyip.com/) | `*.freemyip.com` | **Unlimited** | **No signup or login required** (token URL) | ✅ IPv4 + IPv6 + TXT | ✅ Single HTTP GET call |
-| [**ClouDNS Free**](https://www.cloudns.net/) | `*.cloudns.nz`, `*.cloudns.ph`, `*.cloudns.be` | **1 free DNS zone** (4 Anycast NS) | **Never expires** | ✅ Full DNS records + Dynamic URL | ✅ Dynamic URL script |
-| [**No-IP**](https://www.noip.com/) | `*.ddns.net`, `*.hopto.org`, `*.zapto.org` | **3 hostnames** | ⚠️ Requires monthly email confirmation click | ✅ IPv4 + IPv6 (`AAAA`) | ✅ DUC Client |
+| [**DuckDNS**](https://www.duckdns.org/) | `*.duckdns.org` | **5 subdomains** | **Never expires** (100% free forever) | IPv4 + IPv6 + TXT | Full HTTP Token API (Certbot ready) |
+| [**deSEC.io**](https://desec.io/) | `*.dedyn.io` (+ Bring Your Own Domain) | **Up to 15 domains** | **Never expires** (Managed DNSSEC) | IPv4 + IPv6 + Wildcard | REST API + ACME DNS-01 Hook |
+| [**FreeDNS (Afraid.org)**](https://freedns.afraid.org/) | **`*.mooo.com`, `*.crabdance.com` + 23,000+ shared domains** | **5 subdomains** | Active account (login once every 6 to 12 mos) | IPv4 + IPv6 + `A/CNAME/MX/TXT` | Direct URL Update Key |
+| [**Dynu**](https://www.dynu.com/) | `*.dynu.net`, `*.ddnsfree.com`, `*.mywire.org` (12+ domains) | **4 subdomains** | **Never expires** (no 30-day click required) | IPv4 + IPv6 + Wildcard | DynDNS2 Protocol + REST API |
+| [**dynv6**](https://dynv6.com/) | `*.dynv6.net`, `*.dns.army`, `*.dns.navy` | **Unlimited zones** | **Never expires** | First-class IPv6 prefix + IPv4 | REST & SSH API + ACME DNS-01 |
+| [**FreeMyIP**](https://freemyip.com/) | `*.freemyip.com` | **Unlimited** | **No signup or login required** (token URL) | IPv4 + IPv6 + TXT | Single HTTP GET call |
+| [**ClouDNS Free**](https://www.cloudns.net/) | `*.cloudns.nz`, `*.cloudns.ph`, `*.cloudns.be` | **1 free DNS zone** (4 Anycast NS) | **Never expires** | Full DNS records + Dynamic URL | Dynamic URL script |
+| [**No-IP**](https://www.noip.com/) | `*.ddns.net`, `*.hopto.org`, `*.zapto.org` | **3 hostnames** | Requires monthly email confirmation click | IPv4 + IPv6 (`AAAA`) | DUC Client |
 
 ---
 
-## 🗄️ Free Managed Databases (PostgreSQL, MySQL, MongoDB, Redis)
+## Free managed databases
 
-Many modern **free web hosting** platforms (like Vercel, Netlify, Cloudflare Pages, and Render) do not bundle a built-in database. Pair your frontend or serverless backend with these **100% free managed cloud databases**:
+Static and serverless hosts such as Vercel, Netlify, Cloudflare Pages, and Render do not include a built-in database. Pair them with these free managed cloud databases:
 
 | Database Provider | Engine Type | Free Storage Quota | Compute / Connection Limits | Region & Edge Features | Link |
 | :--- | :--- | :---: | :--- | :--- | :---: |
@@ -254,23 +251,23 @@ Many modern **free web hosting** platforms (like Vercel, Netlify, Cloudflare Pag
 
 ---
 
-## 🛠️ How to Get a Free Website Hosted with a Free Domain in 5 Minutes
+## How to Get a Free Website Hosted with a Free Domain in 5 Minutes
 
 Use these steps to launch a cached site with **100% free web hosting and a custom free domain name**:
 
 ### Step 1: Deploy Your Site on Free Web Hosting (Cloudflare Pages or GitHub Pages)
 1. Push your `index.html` (or Next.js / Astro / Hugo / Vite project) to a public or private GitHub repository.
-2. Sign in to [**Cloudflare Pages**](https://pages.cloudflare.com/) (for unlimited bandwidth) or enable **Settings → Pages** in your GitHub repository.
+2. Sign in to [**Cloudflare Pages**](https://pages.cloudflare.com/) (for unlimited bandwidth) or enable **Settings Pages** in your GitHub repository.
 3. Within 30 seconds, your **free website is hosted** and live at `https://your-project.pages.dev` or `https://username.github.io/repo/`.
 
-### Step 2: Claim a Free Site Domain Name (Or Grab a $0.98–Free `.com` Bundle)
+### Step 2: Claim a Free Site Domain Name (Or Grab a $0.98 to Free `.com` Bundle)
 * **Option A (100% Free Developer Subdomain):** Fork [`is-a-dev/register`](https://github.com/is-a-dev/register) (or [`open-domains/register`](https://github.com/open-domains/register)), add `domains/yourname.json` pointing a `CNAME` record to `your-project.pages.dev`, and open a Pull Request. Once merged, your custom SSL certificate is issued automatically!
 * **Option B (100% Free Student `.me` / `.live` TLD):** If you have a school `.edu` email, activate the GitHub Student Developer Pack and claim a free `.me` domain at [**Namecheap (`nc.me`)**](https://nc.me/).
 * **Option C (Commercial `.com` Brand + WordPress):** If you need a real `.com` for SEO and business branding, grab [**Hostinger's Web Hosting + Free `.com` Domain bundle**](https://www.hostinger.com/) or deploy on [**DigitalOcean with the $200 Free Credit**](https://www.digitalocean.com/).
 
 ---
 
-## 💻 Included CLI Tool: Search & Filter 125+ Hosting & Domain Providers Locally
+## Included CLI Tool: Search & Filter 125+ Hosting & Domain Providers Locally
 
 This repository includes a zero-dependency Python 3 CLI utility ([`hosting_finder.py`](hosting_finder.py)) and a structured JSON dataset ([`providers.json`](providers.json)) so you can query, filter, and export free web hosting and free domain providers right from your terminal.
 
@@ -297,7 +294,7 @@ python3 hosting_finder.py --search "wordpress" --json
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+## Frequently asked questions
 
 ### What is the best 100% free website hosting with no ads in 2026?
 For static websites, landing pages, blogs, and React/Vue apps, **Cloudflare Pages** and **GitHub Pages** are the best **free website hosting** services: both are 100% free forever, inject zero ads, provide automatic SSL certificates, and run on global CDNs. For dynamic **PHP and MySQL** (including WordPress), **InfinityFree**, **AwardSpace**, and **HelioHost** are the most reliable ad-free shared hosts.
@@ -324,19 +321,19 @@ Static sites on **Cloudflare Pages**, **GitHub Pages**, **Vercel**, and **Netlif
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Found a new **free web hosting** platform, a working **free domain** registry, or noticed an outdated limit? Contributions are welcome!
 1. Fork this repository.
 2. Add or update the provider in [`README.md`](README.md) and [`providers.json`](providers.json).
-3. Submit a Pull Request — we verify all submissions for zero forced malware/pop-up ads before merging.
+3. Submit a Pull Request, we verify all submissions for zero forced malware/pop-up ads before merging.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) and our [Issues page](https://github.com/free-website-domains/free-web-hosting/issues) for `good first issue` tasks.
 
-## ⭐ Support the Project
+## Support the Project
 
-If this directory helped you **host free sites** or find a **free site domain name**, please **give this repository a Star ⭐** in the top-right corner! Starring helps more developers and students discover genuinely free hosting resources in search results.
+If this directory helped you **host free sites** or find a **free site domain name**, please **give this repository a Star ** in the top-right corner! Starring helps more developers and students discover genuinely free hosting resources in search results.
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full details.

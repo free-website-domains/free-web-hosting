@@ -1,10 +1,8 @@
-# Free Domains & Free Site Domain Name Setup Guide (2026)
+# Free domains and site domain names (2026)
 
-> **Part of the [Free Web Hosting & Free Domains Directory](../README.md)** • [Interactive Web Directory](https://free-website-domains.github.io/free-web-hosting/free-domains.html)
+> Part of [Free web hosting and free domains](../README.md) • [Interactive web guide](https://free-website-domains.github.io/free-web-hosting/free-domains.html)
 
-Finding a reliable **free site domain name** after the closure of Freenom (`.tk`, `.ml`, `.ga`, `.cf`, `.gq`) requires knowing which registries are genuinely active, included in the **Mozilla Public Suffix List (PSL)**, and compatible with Cloudflare DNS, GitHub Pages, Vercel, and Netlify.
-
-This guide covers the best **free domains**, **free web hosting and domain** combinations, student TLD bundles, and step-by-step DNS configuration instructions.
+After Freenom (`.tk`, `.ml`, `.ga`, `.cf`, `.gq`) closed, getting a reliable **free site domain name** means picking registries listed in the **Mozilla Public Suffix List (PSL)** or active developer GitOps registries that support Cloudflare DNS, GitHub Pages, Vercel, and Netlify.
 
 ---
 
@@ -24,13 +22,13 @@ Unlike basic subdomains, domains in the **Mozilla Public Suffix List (PSL)** all
 
 | Registry | Free Extensions | Full `NS` Delegation? | Cloudflare Compatible? | Best For | Link |
 | :--- | :--- | :---: | :---: | :--- | :---: |
-| **Namecheap (`nc.me`)** | `.me` *(1st year free)* | ✅ Yes (Full TLD) | ✅ Yes | Students with `.edu` email or GitHub Student Pack | [**Check Namecheap →**](https://www.namecheap.com/) |
-| **Name.com Student** | `.live`, `.studio`, `.software`, `.app`, `.dev` | ✅ Yes (Full TLD) | ✅ Yes | GitHub Student Developer Pack members | [name.com/partner/github-students](https://www.name.com/partner/github-students) |
-| **EU.org Registry** | `.eu.org` *(e.g. `mysite.eu.org`)* | ✅ Yes (PSL since 1996) | ✅ Yes | Long-term hobby projects & personal sites | [nic.eu.org](https://nic.eu.org/) |
-| **DigitalPlat FreeDomain** | `.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg` | ✅ Yes | ✅ Yes | Developers wanting fast Cloudflare-ready domains | [domain.digitalplat.org](https://domain.digitalplat.org/) |
-| **Public Free Suffix** | `.is-a.si`, `.pfsdns.org`, `.no.kg`, `.so.kg` | ✅ Yes | ✅ Yes | Personal projects, REST APIs & AI agents | [publicfreesuffix.org](https://publicfreesuffix.org/) |
-| **PP.UA Registry** | `.pp.ua` | ✅ Yes (PSL) | ✅ Yes | Personal websites (requires Telegram/SMS check) | [pp.ua](https://pp.ua/) |
-| **GNAME Free Program** | `.eu.cc` | ✅ Yes | ✅ Yes | Startups, students & side projects | [gname.com/tld-eu-cc.html](https://www.gname.com/tld-eu-cc.html) |
+| **Namecheap (`nc.me`)** | `.me` *(1st year free)* | Yes (Full TLD) | Yes | Students with `.edu` email or GitHub Student Pack | [**Check Namecheap**](https://www.namecheap.com/) |
+| **Name.com Student** | `.live`, `.studio`, `.software`, `.app`, `.dev` | Yes (Full TLD) | Yes | GitHub Student Developer Pack members | [name.com/partner/github-students](https://www.name.com/partner/github-students) |
+| **EU.org Registry** | `.eu.org` *(e.g. `mysite.eu.org`)* | Yes (PSL since 1996) | Yes | Long-term hobby projects & personal sites | [nic.eu.org](https://nic.eu.org/) |
+| **DigitalPlat FreeDomain** | `.dpdns.org`, `.qzz.io`, `.us.kg`, `.xx.kg` | Yes | Yes | Developers wanting fast Cloudflare-ready domains | [domain.digitalplat.org](https://domain.digitalplat.org/) |
+| **Public Free Suffix** | `.is-a.si`, `.pfsdns.org`, `.no.kg`, `.so.kg` | Yes | Yes | Personal projects, REST APIs & AI agents | [publicfreesuffix.org](https://publicfreesuffix.org/) |
+| **PP.UA Registry** | `.pp.ua` | Yes (PSL) | Yes | Personal websites (requires Telegram/SMS check) | [pp.ua](https://pp.ua/) |
+| **GNAME Free Program** | `.eu.cc` | Yes | Yes | Startups, students & side projects | [gname.com/tld-eu-cc.html](https://www.gname.com/tld-eu-cc.html) |
 
 ---
 
@@ -77,10 +75,10 @@ If you do not want to wait for manual registry review, GitOps community registri
 3. Open a Pull Request. Once automated CI checks verify your site is live and non-malicious, your `yourname.is-a.dev` domain propagates globally within minutes.
 
 ### Other Active GitOps Subdomain Registries
-- **`*.js.org`** — Best for open-source JavaScript libraries and documentation ([js.org](https://js.org/)).
-- **`*.is-cool.dev` / `*.is-a-fullstack.dev` / `*.is-local.org`** — Managed by [Open Domains](https://open-domains.net/).
-- **`*.thedev.id` / `*.is-a-good.dev` / `*.is-pro.dev`** — Clean developer portfolio domains.
-- **`*.cli.rs`** — Dedicated subdomain for Rust command-line tools.
+- **`*.js.org`**, Best for open-source JavaScript libraries and documentation ([js.org](https://js.org/)).
+- **`*.is-cool.dev` / `*.is-a-fullstack.dev` / `*.is-local.org`**, Managed by [Open Domains](https://open-domains.net/).
+- **`*.thedev.id` / `*.is-a-good.dev` / `*.is-pro.dev`**, Clean developer portfolio domains.
+- **`*.cli.rs`**, Dedicated subdomain for Rust command-line tools.
 
 ---
 
@@ -94,9 +92,9 @@ curl -s "https://www.duckdns.org/update?domains=YOUR_SUBDOMAIN&token=YOUR_TOKEN&
 ```
 
 Top zero-expiration DDNS providers:
-- **DuckDNS (`*.duckdns.org`)** — Up to 5 subdomains, never expires, native Let's Encrypt `TXT` DNS-01 API.
-- **deSEC (`*.dedyn.io`)** — Nonprofit DNSSEC-signed free domains with REST API and Certbot integration.
-- **Dynu (`*.dynu.net`, `*.mywire.org`)** — 4 free hostnames that do not require monthly click-confirmations.
+- **DuckDNS (`*.duckdns.org`)**, Up to 5 subdomains, never expires, native Let's Encrypt `TXT` DNS-01 API.
+- **deSEC (`*.dedyn.io`)**, Nonprofit DNSSEC-signed free domains with REST API and Certbot integration.
+- **Dynu (`*.dynu.net`, `*.mywire.org`)**, 4 free hostnames that do not require monthly click-confirmations.
 
 ---
 
@@ -104,14 +102,14 @@ Top zero-expiration DDNS providers:
 
 Free subdomains and `.eu.org` domains are great for personal portfolios, APIs, and student demos. However, for SEO rankings, business credibility, and branded email (`hello@yourdomain.com`), a real top-level domain is essential:
 
-- **All-in-One Free `.com` + Web Hosting Bundle:** [**Hostinger**](https://www.hostinger.com/) includes a **free `.com` or `.net` domain name for 1 year** plus 100 GB NVMe hosting and free business email (~$1.99–$2.99/mo).
+- **All-in-One Free `.com` + Web Hosting Bundle:** [**Hostinger**](https://www.hostinger.com/) includes a **free `.com` or `.net` domain name for 1 year** plus 100 GB NVMe hosting and free business email (~$1.99 to $2.99/mo).
 - **Lowest-Cost Standalone Domains:** [**Namecheap**](https://www.namecheap.com/) frequently offers `.xyz`, `.site`, `.online`, and `.store` domains starting around **$0.98/year** with free forever WhoisGuard privacy protection.
 
 ---
 
 ### Related Guides in This Repository
 - [← Back to Main Directory (125+ Providers)](../README.md)
-- [Best Free Homepage & Static Website Hosting →](./free-homepage-and-static-hosting.md)
-- [Best Free WordPress, PHP & MySQL Hosting →](./free-wordpress-and-php-mysql-hosting.md)
-- [Free Cloud VPS & $200 DigitalOcean Credits →](./free-cloud-vps-and-200-dollar-credits.md)
-- [Free vs. Cheap Web Hosting Benchmark Comparison →](./comparison-free-vs-cheap-hosting.md)
+- [Best Free Homepage & Static Website Hosting](./free-homepage-and-static-hosting.md)
+- [Best Free WordPress, PHP & MySQL Hosting](./free-wordpress-and-php-mysql-hosting.md)
+- [Free Cloud VPS & $200 DigitalOcean Credits](./free-cloud-vps-and-200-dollar-credits.md)
+- [Free vs. Cheap Web Hosting Benchmark Comparison](./comparison-free-vs-cheap-hosting.md)
